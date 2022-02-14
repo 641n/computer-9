@@ -1,5 +1,7 @@
 ## Welcome to Sir Gain's webpage on GitHub Pages
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <img src="gain-font-filipino.png" width="111" align="right">
 
 This is an example of a static webpage generated on GitHub Pages.
@@ -46,5 +48,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### Link to my Other Static Website
 
 [1000 Marbles App](http://sirgain.droppages.com/)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
