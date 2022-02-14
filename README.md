@@ -1,9 +1,8 @@
-## Welcome to Sir Gain's GitHub Pages
+## Welcome to Sir Gain's webpage on GitHub Pages
 
+This is an example of a static webpage generated on GitHub Pages.
 
 You can use the [editor on GitHub](https://github.com/641n/computer-9/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-This is an example of a static webpage generated in GitHub Pages.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -41,3 +40,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## My Other Static Website
+
+[1000 Marbles App](http://sirgain.droppages.com/)
