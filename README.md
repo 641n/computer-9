@@ -1,6 +1,6 @@
 ## Welcome to Sir Gain's webpage on GitHub Pages
 
-![](gain-font-filipino.png)
+<img src="gain-font-filipino.png" width="222" align="right">
 
 This is an example of a static webpage generated on GitHub Pages.
 
