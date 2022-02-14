@@ -47,4 +47,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 [1000 Marbles App](http://sirgain.droppages.com/)
 
-https://youtu.be/2MsN8gpT6jY
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
