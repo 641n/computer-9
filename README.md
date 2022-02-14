@@ -8,7 +8,7 @@ You can use the [editor on GitHub](https://github.com/641n/computer-9/edit/main/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Jekyll
+### Jekyll Static Site Generator
 Jekyll is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
 
 ### Markdown
