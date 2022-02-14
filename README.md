@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Sir Gain's GitHub Pages
+
 
 You can use the [editor on GitHub](https://github.com/641n/computer-9/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
+This is an example of a static webpage generated in GitHub Pages.
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Jekyll
+Jekyll is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Markdown** is a lightweight and easy-to-use syntax for styling your writing. Unlike HTML (Hyper Text **Markup** Language), it is simpler and easy to use and understand. Markdown files has a file extension of .md. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
