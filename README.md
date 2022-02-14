@@ -1,6 +1,6 @@
 ## Welcome to Sir Gain's webpage on GitHub Pages
 
-<img src="gain-font-filipino.png" width="222" align="right">
+<img src="gain-font-filipino.png" width="150" align="right">
 
 This is an example of a static webpage generated on GitHub Pages.
 
@@ -43,7 +43,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-## My Other Static Website
+### Link to my Other Static Website
 
 [1000 Marbles App](http://sirgain.droppages.com/)
 
