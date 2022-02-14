@@ -1,5 +1,7 @@
 ## Welcome to Sir Gain's webpage on GitHub Pages
 
+![](gain-font-filipino.png)
+
 This is an example of a static webpage generated on GitHub Pages.
 
 You can use the [editor on GitHub](https://github.com/641n/computer-9/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -44,3 +46,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## My Other Static Website
 
 [1000 Marbles App](http://sirgain.droppages.com/)
+
