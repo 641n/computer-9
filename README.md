@@ -1,4 +1,4 @@
-## Welcome to Sir Gain's webpage on GitHub Pages
+## Welcome to Sir Gain's GitHub Pages
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
