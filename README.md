@@ -33,6 +33,17 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+### Tables
+
+| Time | M | T | W | Th | F |
+-------|---|---|---|----|---|
+| 8:00 AM |  |Gonzalez B | Gonzalez A | Gonzalez B | Gonzalez A |
+| 11:00 AM |  | Campion B | Campion A |  |  |
+| 12:45 PM |  | Chabanel B | Chabanel A | Brebeuf B | Brebeuf A |
+| 1:45 PM |  | Brebeuf B | Brebeuf A | Chabanel B | Chabanel A |
+| 2:45 PM | Consultation |  |  | Campion B | Campion A |
+
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
