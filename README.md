@@ -1,15 +1,19 @@
 ## Welcome to Sir Gain's GitHub Pages
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oc53wR3yJW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This is an example of a static webpage generated on GitHub Pages.
+# Header 1
+## Header 2
+### Header 3
+
+This is an *example* of a **static** webpage generated on GitHub Pages.
 
 You can use the [editor on GitHub](https://github.com/641n/computer-9/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Jekyll Static Site Generator
-Jekyll is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
+> Jekyll is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
 
 ### Markdown
 
@@ -35,13 +39,13 @@ Syntax highlighted code block
 
 ### Tables
 
-| Time | M | T | W | Th | F |
--------|---|---|---|----|---|
-| 8:00 AM |  |Gonzalez B | Gonzalez A | Gonzalez B | Gonzalez A |
-| 11:00 AM |  | Campion B | Campion A |  |  |
-| 12:45 PM |  | Chabanel B | Chabanel A | Brebeuf B | Brebeuf A |
-| 1:45 PM |  | Brebeuf B | Brebeuf A | Chabanel B | Chabanel A |
-| 2:45 PM | Consultation |  |  | Campion B | Campion A |
+| Time/Day | M | T | W | Th | F | S | S |
+-----------|---|---|---|----|---|---|---|
+| 8:00 AM |  |Gonzalez B | Gonzalez A | Gonzalez B | Gonzalez A |  |  |
+| 11:00 AM |  | Campion B | Campion A |  |  |  |  |
+| 12:45 PM |  | Chabanel B | Chabanel A | Brebeuf B | Brebeuf A |  |  |
+| 1:45 PM |  | Brebeuf B | Brebeuf A | Chabanel B | Chabanel A |  |  |
+| 2:45 PM | Consultation |  |  | Campion B | Campion A |  |  |
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
@@ -58,6 +62,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Link to my Other Static Website
 
-
-[1000 Marbles App](http://sirgain.droppages.com/)
+[`facebook`](https://www.facebook.com/sirgain)
+[`twitter`](https://www.twitter.com/sirgain)
+[Gain's Nook](http://sirgain.droppages.com/)
 
