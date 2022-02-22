@@ -18,6 +18,15 @@ for(i=0;i<10;i++){
   echo 'GitHub rocks!\n';
 }
 ```
+### This is an ordered list
+1. Static Site Generator
+2. Content Management System
+3. Site Builders
+
+### This is an unordered list
+- Static Site Generator
+- Content Management System
+- Site Builders
 
 ### Table
 
@@ -33,9 +42,9 @@ for(i=0;i<10;i++){
 
 <img src="gain-font-filipino.png" width="111" align="right">
 
-### Link to my Other Static Website
+### Links
 
 [`facebook`](https://www.facebook.com/sirgain)
 [`twitter`](https://www.twitter.com/sirgain)
-[Gain's Nook](http://sirgain.droppages.com/)
+[`Gain's Nook`](http://sirgain.droppages.com/)
 
