@@ -2,15 +2,16 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oc53wR3yJW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Header 1
-## Header 2
-### Header 3
+# Header Title 1
+## Header Title 2
+### Header Title 3
 
 This is an example of a normal text. This is in *italics*, this one is in **bold** print and this is `code`.
 
 > This is an example of a text with **blockquote**. Note that it is indented from the left. This is useful if you are quoting long texts or want to highlight a paragraph or sentence.
 
 Below is the use of the ` to usually show computer codes
+
 ```code
 This is an example programming code
 
@@ -18,6 +19,7 @@ for(i=0;i<10;i++){
   echo 'GitHub rocks!\n';
 }
 ```
+
 ### This is an ordered list
 1. Static Site Generator
 2. Content Management System
@@ -39,8 +41,7 @@ for(i=0;i<10;i++){
 | 2:45 PM | Consultation |  |  | Campion B | Campion A |
 
 
-
-<img src="gain-font-filipino.png" width="111" align="right">
+![name ko](gain-font-filipino.png)
 
 ### Links
 
