@@ -1,11 +1,11 @@
-## Welcome to Sir Gain's GitHub Pages
+## Welcome to [Sir Gain's](https://641n.github.io/) Computer 9
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Gv0H-vPoDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 ### Brebeuf
 
-| A | B | 
-|---|---|
+| Group A | Group B | 
+|---------|---------|
 | Armendi, Karl Jerome | Abellada, John Myko |
 | [Avenido, Jarrel Joseph](https://ja-rr.github.io/Tenku/) | Albero, Gwen Erin |
 | Bongat, Dorothy Jean | Albeus, Rex Gabriel |
@@ -30,8 +30,8 @@
 
 ### Campion
 
-| A | B | 
-|---|---|
+| Group A | Group B | 
+|---------|---------|
 | [Abergos, Sean Arman](https://seanabr.github.io/) | [Alexopoulos, Jon Audi](https://johnandy-11.github.io/Chess/) |
 | [Argote, Zianne](https://ziianne.github.io/) | Arevalo, Aivan Matthew |
 | Averilla, Janniah Sophia | [Camoñas, Anne Claudia](https://eysfmx.github.io/) |
@@ -60,8 +60,8 @@
 
 ### Chabanel
 
-| A | B | 
-|---|---|
+| Group A | Group B | 
+|---------|---------|
 | Abejero, Justin Julian | Arroyo, Chryssa Dianne |
 | Abiog, Glerdanielle | [Castañeda, Eonna Francesca](https://eonnna.github.io/) |
 | [Agapito, Ronin](https://ron1nn.github.io/) | [Cello, Denisse Ann](https://denicann.github.io/) |
