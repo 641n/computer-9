@@ -54,7 +54,7 @@
 | Serranzana, Arianna Kayla | [Panganiban, Periel Matthew](https://matthiaspangiban.github.io/MAWInc/#) |
 | Siangchin, Samantha | [Perez, John Raymond Carlo](https://ijiray.github.io/) |
 | [Tatel, Armand Sergelio](https://armandtatel.github.io/) | [Santiago, Althea Mae](https://amcsantiago.github.io/) |
-| [Umali, Adriane | Simando, Dorothy Ada](https://4idr74n3.github.io/) |
+| [Umali, Adriane](https://4idr74n3.github.io/) | Simando, Dorothy Ada |
 |  | Villarin, Samantha Lurlin |
 
 ### Chabanel
