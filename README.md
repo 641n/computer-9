@@ -29,6 +29,7 @@
 |  | [Sta. Clara, Salve](https://vhiel18.github.io/)
 
 ### Campion
+
 | A | B | 
 |---|---|
 | [Abergos, Sean Arman](https://seanabr.github.io/) | [Alexopoulos, Jon Audi](https://johnandy-11.github.io/Chess/) |
@@ -58,6 +59,7 @@
 |  | Villarin, Samantha Lurlin |
 
 ### Chabanel
+
 | A | B | 
 |---|---|
 | Abejero, Justin Julian | Arroyo, Chryssa Dianne |
