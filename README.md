@@ -1,6 +1,6 @@
 ## Welcome to Sir Gain's GitHub Pages
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Gv0H-vPoDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Gv0H-vPoDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 ### Brebeuf
 
@@ -63,7 +63,7 @@
 | A | B | 
 |---|---|
 | Abejero, Justin Julian | Arroyo, Chryssa Dianne |
-| Abiog, Glerdanielle | [Castañeda, EONNA FRANCESCA](https://eonnna.github.io/) |
+| Abiog, Glerdanielle | [Castañeda, Eonna Francesca](https://eonnna.github.io/) |
 | [Agapito, Ronin](https://ron1nn.github.io/) | [Cello, Denisse Ann](https://denicann.github.io/) |
 | [Ardeña, Anthony John](https://aja07.github.io/) | [Delaon, Dashiell Matthew](https://daassshhh.github.io/Daassshhhgithub.com/) |
 | Avila, Ethan Rommel | Elecanal, Marie Hannah Emanuelle |
@@ -76,7 +76,7 @@
 | [Dy, Elyana Marie](https://yanie-uwu.github.io/Yanie-uwu/) | [Neola, Rayden](https://rayynnnn.github.io/) |
 | Francia, Trisha Arwen | [Parco, Sean Bradley](https://parc0.github.io/) |
 | [Fullante, Lance Victor](https://github.com/SiOptimum-Pride/Classified-Docs.git) | Ruizo, Rikka Marie Thea |
-| Llanza, PATRICIA DINESI | [Salcedo, Hannah](https://aespaghetti.github.io/) |
+| Llanza, Patricia Dinesi | [Salcedo, Hannah](https://aespaghetti.github.io/) |
 | [Otao, Edsel Mark Adam](https://happiboy.github.io/) | San Andres, Wilhelm III |
 | [Panliboton, Francesca Michaela](https://nejiiiii.github.io/) | Seva, Dandee |
 | Saraspi, Kiera Kristoff | [Sevilla, Maria Consuelo](https://c0nsuel0.github.io/c0nsuelo.github.io/) |
