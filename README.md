@@ -84,11 +84,11 @@
 |  | Yuboco, Matthew Angelo |
 
 
-![name ko](gain-font-filipino.png)
-
 ### Links
 
+[`Home`](https://641n.github.io/)
 [`facebook`](https://www.facebook.com/sirgain)
 [`twitter`](https://www.twitter.com/sirgain)
 [`Gain's Nook`](http://sirgain.droppages.com/)
+
 
