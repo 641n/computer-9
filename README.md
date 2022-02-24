@@ -25,8 +25,8 @@
 | [Pandes, Claudia Myrdith](https://diasednap.github.io/laurel/) | [Revilla, Rex Rafael](http://rexrevre.github.io/) |
 | [Posugac, John Angelo](https://github.com/Tom-atoo/Tom-atoo.github.io/edit/main/README.md?allow_unchanged=1) | Rosari, Charly III |
 | Rubio, Jose Iñigo | [Rubi, Leander Jay](https://riku462.github.io/) |
-| Villa, Cheenee Amory | Shaikh, Ali |
-|  | [Sta. Clara, Salve](https://vhiel18.github.io/)
+| Villa, Cheenee Amory | [Shaikh, Ali](https://riku462.github.io/) |
+|  | [Sta. Clara, Salve](https://vhiel18.github.io/) |
 
 ### Campion
 
