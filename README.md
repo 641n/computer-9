@@ -34,7 +34,7 @@
 |---------|---------|
 | [Abergos, Sean Arman](https://seanabr.github.io/) | [Alexopoulos, Jon Audi](https://johnandy-11.github.io/Chess/) |
 | [Argote, Zianne](https://ziianne.github.io/) | Arevalo, Aivan Matthew |
-| Averilla, Janniah Sophia | [Camoñas, Anne Claudia](https://eysfmx.github.io/) |
+| [Averilla, Janniah Sophia](https://sophii-33.github.io/) | [Camoñas, Anne Claudia](https://eysfmx.github.io/) |
 | [Bacho, Regie Ezra](https://erzark.github.io/) | [Castañares, Leigh Margarette](https://lmscedu.github.io/campion-b/) |
 | [Bahia, Samantha](https://bahia19113.github.io/) | Cortero, Miguel |
 | Bangoyna, Shan Carlo | Cruz, Magar Dew |
@@ -70,11 +70,11 @@
 | Belmonte, Rica Mae | Gaite, Juliana Lyenne |
 | Beltran, Niño Anthony | Jocom, Shawn Israel |
 | [Bico, Christine Abigail](https://dumplingss00.github.io/dumplingss00/) | [Lanuza, Priard Denver](https://banbbb.github.io/) |
-| Casilihan, Nathan Xander | [Mandasoc, Kenneth Kendrick](https://c0fee.github.io/) |
+| [Casilihan, Nathan Xander](https://nathanowo.github.io/) | [Mandasoc, Kenneth Kendrick](https://c0fee.github.io/) |
 | De Vera, Francis Russel | Medrano, Lianna Marie |
-| Dichoso, Kimbhie Hannah | Mendoza, John Kerby |
+| Dichoso, Kimbhie Hannah | [Mendoza, John Kerby](https://john-kerby.github.io/) |
 | [Dy, Elyana Marie](https://yanie-uwu.github.io/Yanie-uwu/) | [Neola, Rayden](https://rayynnnn.github.io/) |
-| Francia, Trisha Arwen | [Parco, Sean Bradley](https://parc0.github.io/) |
+| [Francia, Trisha Arwen](https://github.com/treshyy) | [Parco, Sean Bradley](https://parc0.github.io/) |
 | [Fullante, Lance Victor](https://github.com/SiOptimum-Pride/Classified-Docs.git) | Ruizo, Rikka Marie Thea |
 | Llanza, Patricia Dinesi | [Salcedo, Hannah](https://aespaghetti.github.io/) |
 | [Otao, Edsel Mark Adam](https://happiboy.github.io/) | San Andres, Wilhelm III |
