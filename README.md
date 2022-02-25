@@ -9,7 +9,7 @@
 | Armendi, Karl Jerome | Abellada, John Myko |
 | [Avenido, Jarrel Joseph](https://ja-rr.github.io/Tenku/) | Albero, Gwen Erin |
 | Bongat, Dorothy Jean | Albeus, Rex Gabriel |
-| Borbor, Carla Marie | Ayao, Ma. Jem Suzaine |
+| [Borbor, Carla Marie](https://github.com/nerfgone) | Ayao, Ma. Jem Suzaine |
 | Cabrera, Kathleen Chloe  | Ayo, Alyanna Gabrielle |
 | Calleja, Clark Lorenz Hugh | Bardaje, Jose Gabriel |
 | [Cariño, Anthea Andrea](https://akaririn96.github.io/Akaris-website/) | [Betito, Maria Bianca Isabel](https://bncasbl.github.io/) |
