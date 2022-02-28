@@ -66,12 +66,12 @@
 | Abiog, Glerdanielle | [Castañeda, Eonna Francesca](https://eonnna.github.io/) |
 | [Agapito, Ronin](https://ron1nn.github.io/) | [Cello, Denisse Ann](https://denicann.github.io/) |
 | [Ardeña, Anthony John](https://aja07.github.io/) | [Delaon, Dashiell Matthew](https://daassshhh.github.io/Daassshhhgithub.com/) |
-| Avila, Ethan Rommel | Elecanal, Marie Hannah Emanuelle |
+| Avila, Ethan Rommel | [Elecanal, Marie Hannah Emanuelle](https://mariehannah.github.io/) |
 | Belmonte, Rica Mae | Gaite, Juliana Lyenne |
 | Beltran, Niño Anthony | Jocom, Shawn Israel |
 | [Bico, Christine Abigail](https://dumplingss00.github.io/dumplingss00/) | [Lanuza, Priard Denver](https://banbbb.github.io/) |
 | [Casilihan, Nathan Xander](https://nathanowo.github.io/) | [Mandasoc, Kenneth Kendrick](https://c0fee.github.io/) |
-| De Vera, Francis Russel | Medrano, Lianna Marie |
+| De Vera, Francis Russel | [Medrano, Lianna Marie](https://li4nn4.github.io/) |
 | Dichoso, Kimbhie Hannah | [Mendoza, John Kerby](https://john-kerby.github.io/) |
 | [Dy, Elyana Marie](https://yanie-uwu.github.io/Yanie-uwu/) | [Neola, Rayden](https://rayynnnn.github.io/) |
 | [Francia, Trisha Arwen](https://github.com/treshyy) | [Parco, Sean Bradley](https://parc0.github.io/) |
