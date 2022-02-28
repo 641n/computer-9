@@ -33,15 +33,15 @@
 | Group A | Group B | 
 |---------|---------|
 | [Abergos, Sean Arman](https://seanabr.github.io/) | [Alexopoulos, Jon Audi](https://johnandy-11.github.io/Chess/) |
-| [Argote, Zianne](https://ziianne.github.io/) | Arevalo, Aivan Matthew |
+| [Argote, Zianne](https://ziianne.github.io/) | [Arevalo, Aivan Matthew](http://saltedspice.github.io/) |
 | [Averilla, Janniah Sophia](https://sophii-33.github.io/) | [Camoñas, Anne Claudia](https://eysfmx.github.io/) |
 | [Bacho, Regie Ezra](https://erzark.github.io/) | [Castañares, Leigh Margarette](https://lmscedu.github.io/campion-b/) |
 | [Bahia, Samantha](https://bahia19113.github.io/) | Cortero, Miguel |
-| Bangoyna, Shan Carlo | Cruz, Magar Dew |
+| Bangoyna, Shan Carlo | [Cruz, Magar Dew](https://margxa.github.io/) |
 | [Blasco, Kim Lawrence](https://kimblasco.github.io/) | [De Los Santos, Eugene Gabriel](https://eudlsph.github.io/eudlsph4.github.io/) |
 | Bulalacao, Ryan | [Estares, Aaliyah Venizze](https://estaresaal.github.io/) |
 | [Dalisay, Godwin](https://godwinos.github.io/) | [Evangelista, Xavier Paul](https://xebeb.github.io/XavierEvangelista_CampionB/) |
-| [Gonzaga, Franc Iverdre](https://iverdre.github.io/) | Geronimo, Brent Isaac |
+| [Gonzaga, Franc Iverdre](https://iverdre.github.io/) | [Geronimo, Brent Isaac](https://brentisaacgeronimo.github.io/br3nt/) |
 | [Hernandez, Luis Iñigo](https://inigo101.github.io/inigo101/) | Gloriani, Kyle Emanuelle |
 | [Ibarreta, Jenieva](https://i43yuna.github.io/) | [Hinagpis, Mark Vincent](https://mrk-hinagpis.github.io/MRK-HINAGPIS/) |
 | Manalang, Kryselle Anne | Joson, Rae Frances |
@@ -51,7 +51,7 @@
 | [Paglinawan, Mathew Jerard](https://mjuwu.github.io/) | Nacario, Melchor |
 | Rivera, Nathan Hendrik | [Nicolas, Andrea Trish](https://dreanicls.github.io/Andrea-s-Asian-Drama-Watchlist-kit/) |
 | [Sabillena, Vincent Gerard](https://v1nce72.github.io/) | [Nidea, Samuel Ivan](https://samunidea.github.io/) |
-| Santiago, Jabez Phire | [Ornido, Robert Sebastian](http://bastyornido.github.io/) |
+| [Santiago, Jabez Phire](https://amcsantiago.github.io/) | [Ornido, Robert Sebastian](http://bastyornido.github.io/) |
 | Serranzana, Arianna Kayla | [Panganiban, Periel Matthew](https://matthiaspangiban.github.io/MAWInc/#) |
 | Siangchin, Samantha | [Perez, John Raymond Carlo](https://ijiray.github.io/) |
 | [Tatel, Armand Sergelio](https://armandtatel.github.io/) | [Santiago, Althea Mae](https://amcsantiago.github.io/) |
@@ -97,7 +97,7 @@
 | [Carilimdiliman, Jeremy Liam](https://jlkarim.github.io/) | [De La Rosa, Shen Keziah](https://shnndlr.github.io/) |
 | [Celso, Gabrielle Mae](https://gmcel.github.io/gmcel-github.io/) | Glipo, Katrice Riyanne |
 | Esteves, Janel | Gutierrez, Andrea |
-| Estrada, Lara Mhadelle | Javier, Venice |
+| [Estrada, Lara Mhadelle](https://eskeshiri.github.io/) | Javier, Venice |
 | [Estravila, Jeanin Lestat](https://jlestravila.github.io/) | [Medenilla, Christian Daniel](http://cydros.github.io/) |
 | Guevarra, Alexey Andrea | [Menes, Chandleo William](https://github.com/ChandleoMenes/8-Ball-Pool/edit/gh-pages/index.md?allow_unchanged=1) |
 | Ibasco, Kyle Dan | [Mota, Ma. Bernadette](https://ma-badeth.github.io/) |
