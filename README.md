@@ -71,7 +71,7 @@
 | Beltran, Niño Anthony | Jocom, Shawn Israel |
 | [Bico, Christine Abigail](https://dumplingss00.github.io/dumplingss00/) | [Lanuza, Priard Denver](https://banbbb.github.io/) |
 | [Casilihan, Nathan Xander](https://nathanowo.github.io/) | [Mandasoc, Kenneth Kendrick](https://c0fee.github.io/) |
-| De Vera, Francis Russel | [Medrano, Lianna Marie](https://li4nn4.github.io/) |
+| [De Vera, Francis Russel](https://francisdevera2007.github.io/) | [Medrano, Lianna Marie](https://li4nn4.github.io/) |
 | Dichoso, Kimbhie Hannah | [Mendoza, John Kerby](https://john-kerby.github.io/) |
 | [Dy, Elyana Marie](https://yanie-uwu.github.io/Yanie-uwu/) | [Neola, Rayden](https://rayynnnn.github.io/) |
 | [Francia, Trisha Arwen](https://github.com/treshyy) | [Parco, Sean Bradley](https://parc0.github.io/) |
