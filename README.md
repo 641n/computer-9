@@ -44,7 +44,7 @@
 | [Gonzaga, Franc Iverdre](https://iverdre.github.io/) | [Geronimo, Brent Isaac](https://brentisaacgeronimo.github.io/br3nt/) |
 | [Hernandez, Luis Iñigo](https://inigo101.github.io/inigo101/) | Gloriani, Kyle Emanuelle |
 | [Ibarreta, Jenieva](https://i43yuna.github.io/) | [Hinagpis, Mark Vincent](https://mrk-hinagpis.github.io/MRK-HINAGPIS/) |
-| Manalang, Kryselle Anne | Joson, Rae Frances |
+| Manalang, Kryselle Anne | [Joson, Rae Frances](https://raejoson.github.io/) |
 | [Negro, Kenshin Reema](https://ripknshn.github.io/) | Lanzuela, Neil Gabriel |
 | Oira, Ken Aurther Milek | Mandanas, Miguel Alfred |
 | [Oloya, Amber Colleen](https://am-collee.github.io/) | Moreno, Clint Russel |
