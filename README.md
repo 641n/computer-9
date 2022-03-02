@@ -68,7 +68,7 @@
 | [Ardeña, Anthony John](https://aja07.github.io/) | [Delaon, Dashiell Matthew](https://daassshhh.github.io/Daassshhhgithub.com/) |
 | Avila, Ethan Rommel | [Elecanal, Marie Hannah Emanuelle](https://mariehannah.github.io/) |
 | Belmonte, Rica Mae | Gaite, Juliana Lyenne |
-| Beltran, Niño Anthony | Jocom, Shawn Israel |
+| Beltran, Niño Anthony | [Jocom, Shawn Israel](https://shawn-israel.github.io/) |
 | [Bico, Christine Abigail](https://dumplingss00.github.io/dumplingss00/) | [Lanuza, Priard Denver](https://banbbb.github.io/) |
 | [Casilihan, Nathan Xander](https://nathanowo.github.io/) | [Mandasoc, Kenneth Kendrick](https://c0fee.github.io/) |
 | [De Vera, Francis Russel](https://francisdevera2007.github.io/) | [Medrano, Lianna Marie](https://li4nn4.github.io/) |
