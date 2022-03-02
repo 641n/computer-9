@@ -94,17 +94,17 @@
 | [Buenaflor, Niña](https://yyynaa.github.io/) | [Dait, Francezka Gabrielle](https://fr1nce.github.io/) |
 | [Caday, Gabriel Judel](https://gabrielcaday.github.io/gjcadayinfo/) | Daza, Leigh Francesca |
 | [Carilimdiliman, Jeremy Liam](https://jlkarim.github.io/) | [De La Rosa, Shen Keziah](https://shnndlr.github.io/) |
-| [Celso, Gabrielle Mae](https://gmcel.github.io/gmcel-github.io/) | Glipo, Katrice Riyanne |
+| [Celso, Gabrielle Mae^ok^](https://gmcel.github.io/gmcel-github.io/) | Glipo, Katrice Riyanne |
 | Esteves, Janel | Gutierrez, Andrea |
-| [Estrada, Lara Mhadelle](https://eskeshiri.github.io/) | [Javier, Venice](https://jvvenice.github.io/jvvenice/) |
+| [Estrada, Lara Mhadelle^ok^](https://eskeshiri.github.io/) | [Javier, Venice^ok^](https://jvvenice.github.io/jvvenice/) |
 | [Estravila, Jeanin Lestat](https://jlestravila.github.io/) | [Medenilla, Christian Daniel](http://cydros.github.io/) |
-| Guevarra, Alexey Andrea | [Menes, Chandleo William](https://github.com/ChandleoMenes/8-Ball-Pool/edit/gh-pages/index.md?allow_unchanged=1) |
-| Ibasco, Kyle Dan | [Mota, Ma. Bernadette](https://ma-badeth.github.io/) |
+| Guevarra, Alexey Andrea | [Menes, Chandleo William^ok^](https://https://8-ball-pool.github.io/) |
+| Ibasco, Kyle Dan | [Mota, Ma. Bernadette^ok^](https://ma-badeth.github.io/) |
 | Llorin, Thomas John | Olitoquit, Harry |
 | Medrano, Lorenzo Yani | [Peña, Aliyah Mari](http://32115000.github.io/) |
 | Morales, Ava Francesca | Rosanes, Gian Miguel |
-| [Remot, Ronald Joseph Ymmanoel](https://rjymmanoel.github.io/) | Santiago, Margarette |
-| [Sesgundo, Jaime Chikko](https://github.com/JCSes/JCSes.github.io/blob/79ae82905a7ffdf3a7b6b4b6fb3cec75a0f75062/index.md) | [Tan, Madisson Tyler](https://gitan-hub.github.io/) |
+| [Remot, Ronald Joseph Ymmanoel^ok^](https://rjymmanoel.github.io/) | Santiago, Margarette |
+| [Sesgundo, Jaime Chikko](https://github.com/JCSes/JCSes.github.io/blob/79ae82905a7ffdf3a7b6b4b6fb3cec75a0f75062/index.md) | [Tan, Madisson Tyler^ok^](https://gitan-hub.github.io/) |
 | Solares, Darena Jeslyn | Verdadero, Josef Benjamin |
 | [Volante, Ghieann Ashley](https://yelshagavie.github.io/) | Villacruz, Jerry Joseph |
 
