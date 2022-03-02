@@ -15,18 +15,17 @@
 | [Cariño, Anthea Andrea](https://akaririn96.github.io/Akaris-website/) | [Betito, Maria Bianca Isabel](https://bncasbl.github.io/) |
 | [Cueto, Sean Marco](https://seanmarconcueto.github.io/Hi-Im-Sean/?fbclid=IwAR2M-XbB1wKuMilHaZOfyDIuDkW76OJrQ2Au2Edru89Tj3YvQU_WcnKKaJ4) | Biana, James Anthony |
 | [Daanoy, Karl Anthony](https://kael04.github.io/) | Bustilla, Carmela Anne Marie |
-| [Florendo, Antonio Joaquin](https://lelite2150.github.io/) | Bustilla, Carmela Anne Marie |
-| [Gaite, Emma Isabela](https://maccssxd.github.io/) | [Cantor, Angel Louise](https://louiseaa.github.io/) |
-| [Guadalupe, Widmarc Kymm](https://kkmymm.github.io/) | Guibilondo, Reece Gianray |
-| [Lozano, Ricardo IV](https://xenn06.github.io/samplexen/) | Naval, Juan Lorenzo |
-| [Maravilla, Maurois Juza](https://maurois127.github.io/Dzone/) | Nogales, Matthieu Harven |
-| [Mayao, Leigh Micah](https://15lhs.github.io/) | Obras, Francheska |
-| [Palcon, Mark Angel](https://mmaarrk.github.io/) | Plaza, Angelica Marie |
-| [Pandes, Claudia Myrdith](https://diasednap.github.io/laurel/) | [Revilla, Rex Rafael](http://rexrevre.github.io/) |
-| [Posugac, John Angelo](https://github.com/Tom-atoo/Tom-atoo.github.io/edit/main/README.md?allow_unchanged=1) | Rosari, Charly III |
-| [Rubio, Jose Iñigo](http://ni60145.github.io/) | [Rubi, Leander Jay](https://riku462.github.io/) |
-| Villa, Cheenee Amory | [Shaikh, Ali](https://riku462.github.io/) |
-|  | [Sta. Clara, Salve](https://vhiel18.github.io/) |
+| [Florendo, Antonio Joaquin](https://lelite2150.github.io/) | [Cantor, Angel Louise](https://louiseaa.github.io/) |
+| [Gaite, Emma Isabela](https://maccssxd.github.io/) | Guibilondo, Reece Gianray |
+| [Guadalupe, Widmarc Kymm](https://kkmymm.github.io/) | Naval, Juan Lorenzo |
+| [Lozano, Ricardo IV](https://xenn06.github.io/samplexen/) | Nogales, Matthieu Harven |
+| [Maravilla, Maurois Juza](https://maurois127.github.io/Dzone/) | Obras, Francheska |
+| [Mayao, Leigh Micah](https://15lhs.github.io/) | Plaza, Angelica Marie |
+| [Palcon, Mark Angel](https://mmaarrk.github.io/) | [Revilla, Rex Rafael](http://rexrevre.github.io/) |
+| [Pandes, Claudia Myrdith](https://diasednap.github.io/laurel/) | Rosari, Charly III |
+| [Posugac, John Angelo](https://github.com/Tom-atoo/Tom-atoo.github.io/edit/main/README.md?allow_unchanged=1) | [Rubi, Leander Jay](https://riku462.github.io/) |
+| [Rubio, Jose Iñigo](http://ni60145.github.io/) | [Shaikh, Ali](https://riku462.github.io/) |
+| Villa, Cheenee Amory | [Sta. Clara, Salve](https://vhiel18.github.io/) |
 
 ### Campion
 
