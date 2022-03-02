@@ -92,12 +92,12 @@
 | Baylon, Aizeah | [Arenillo, Louis Kristian](http://lou1s69.github.io/) |
 | Belleza, Alfonso Benedict | Cabaña, Juan Rico Martin |
 | Brazan, David John | Carpo, Renz Donn |
-| [Buenaflor, Niña](https://yyynaa.github.io/) | Dait, Francezka Gabrielle |
+| [Buenaflor, Niña](https://yyynaa.github.io/) | [Dait, Francezka Gabrielle](https://fr1nce.github.io/) |
 | [Caday, Gabriel Judel](https://gabrielcaday.github.io/gjcadayinfo/) | Daza, Leigh Francesca |
 | [Carilimdiliman, Jeremy Liam](https://jlkarim.github.io/) | [De La Rosa, Shen Keziah](https://shnndlr.github.io/) |
 | [Celso, Gabrielle Mae](https://gmcel.github.io/gmcel-github.io/) | Glipo, Katrice Riyanne |
 | Esteves, Janel | Gutierrez, Andrea |
-| [Estrada, Lara Mhadelle](https://eskeshiri.github.io/) | Javier, Venice |
+| [Estrada, Lara Mhadelle](https://eskeshiri.github.io/) | [Javier, Venice](https://jvvenice.github.io/jvvenice/) |
 | [Estravila, Jeanin Lestat](https://jlestravila.github.io/) | [Medenilla, Christian Daniel](http://cydros.github.io/) |
 | Guevarra, Alexey Andrea | [Menes, Chandleo William](https://github.com/ChandleoMenes/8-Ball-Pool/edit/gh-pages/index.md?allow_unchanged=1) |
 | Ibasco, Kyle Dan | [Mota, Ma. Bernadette](https://ma-badeth.github.io/) |
