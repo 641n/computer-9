@@ -6,7 +6,7 @@
 
 | Group A | Group B | 
 |---------|---------|
-| Armendi, Karl Jerome | Abellada, John Myko |
+| Armendi, Karl Jerome | [Abellada, John Myko](https://gudmornin.github.io.git) |
 | [Avenido, Jarrel Joseph](https://ja-rr.github.io/Tenku/) | Albero, Gwen Erin |
 | Bongat, Dorothy Jean | Albeus, Rex Gabriel |
 | [Borbor, Carla Marie](https://github.com/nerfgone) | Ayao, Ma. Jem Suzaine |
@@ -24,7 +24,7 @@
 | [Palcon, Mark Angel](https://mmaarrk.github.io/) | Plaza, Angelica Marie |
 | [Pandes, Claudia Myrdith](https://diasednap.github.io/laurel/) | [Revilla, Rex Rafael](http://rexrevre.github.io/) |
 | [Posugac, John Angelo](https://github.com/Tom-atoo/Tom-atoo.github.io/edit/main/README.md?allow_unchanged=1) | Rosari, Charly III |
-| Rubio, Jose Iñigo | [Rubi, Leander Jay](https://riku462.github.io/) |
+| [Rubio, Jose Iñigo](http://ni60145.github.io/) | [Rubi, Leander Jay](https://riku462.github.io/) |
 | Villa, Cheenee Amory | [Shaikh, Ali](https://riku462.github.io/) |
 |  | [Sta. Clara, Salve](https://vhiel18.github.io/) |
 
