@@ -6,7 +6,7 @@
 
 | Group A | Group B | 
 |---------|---------|
-| Armendi, Karl Jerome | [Abellada, John Myko](https://gudmornin.github.io.git) |
+| Armendi, Karl Jerome | [Abellada, John Myko](https://gudmornin.github.io/) |
 | [Avenido, Jarrel Joseph](https://ja-rr.github.io/Tenku/) | Albero, Gwen Erin |
 | Bongat, Dorothy Jean | Albeus, Rex Gabriel |
 | [Borbor, Carla Marie](https://github.com/nerfgone) | Ayao, Ma. Jem Suzaine |
