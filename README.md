@@ -13,7 +13,7 @@
 | Cabrera, Kathleen Chloe  | Ayo, Alyanna Gabrielle |
 | Calleja, Clark Lorenz Hugh | Bardaje, Jose Gabriel |
 | [Cariño, Anthea Andrea](https://akaririn96.github.io/Akaris-website/) | [Betito, Maria Bianca Isabel](https://bncasbl.github.io/) |
-| [Cueto, Sean Marco](https://seanmarconcueto.github.io/Hi-Im-Sean/?fbclid=IwAR2M-XbB1wKuMilHaZOfyDIuDkW76OJrQ2Au2Edru89Tj3YvQU_WcnKKaJ4)<sup>`edit`</sup> | Biana, James Anthony |
+| [Cueto, Sean Marco](https://seanmarconcueto.github.io/sean/)<sup>`ok`</sup> | Biana, James Anthony |
 | [Daanoy, Karl Anthony](https://kael04.github.io/) | Bustilla, Carmela Anne Marie |
 | [Florendo, Antonio Joaquin](https://lelite2150.github.io/) | [Cantor, Angel Louise](https://louiseaa.github.io/)<sup>`ok`</sup> |
 | [Gaite, Emma Isabela](https://maccssxd.github.io/) | Guibilondo, Reece Gianray |
