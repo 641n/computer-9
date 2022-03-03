@@ -68,7 +68,7 @@
 | Avila, Ethan Rommel | [Elecanal, Marie Hannah Emanuelle](https://mariehannah.github.io/)<sup>`edit`</sup> |
 | Belmonte, Rica Mae | Gaite, Juliana Lyenne |
 | Beltran, Niño Anthony | [Jocom, Shawn Israel](https://shawn-israel.github.io/) |
-| [Bico, Christine Abigail](https://dumplingss00.github.io/dumplingss00/) | [Lanuza, Priard Denver](https://banbbb.github.io/)<sup>`error`</sup> |
+| [Bico, Christine Abigail](https://dumplingss00.github.io/dumplingss00/) | [Lanuza, Priard Denver](https://banbbb.github.io/bannbbb.github.io/)<sup>`ok`</sup> |
 | [Casilihan, Nathan Xander](https://nathanowo.github.io/) | [Mandasoc, Kenneth Kendrick](https://c0fee.github.io/) |
 | [De Vera, Francis Russel](https://francisdevera2007.github.io/)<sup>`ok`</sup> | [Medrano, Lianna Marie](https://li4nn4.github.io/) |
 | Dichoso, Kimbhie Hannah | [Mendoza, John Kerby](https://john-kerby.github.io/)<sup>`ok`</sup> |
