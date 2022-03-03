@@ -98,7 +98,7 @@
 | Esteves, Janel | Gutierrez, Andrea |
 | [Estrada, Lara Mhadelle<sup>ok</sup>](https://eskeshiri.github.io/) | [Javier, Venice<sup>ok</sup>](https://jvvenice.github.io/jvvenice/) |
 | [Estravila, Jeanin Lestat](https://jlestravila.github.io/) | [Medenilla, Christian Daniel](http://cydros.github.io/) |
-| Guevarra, Alexey Andrea | [Menes, Chandleo William<sup>ok</sup>](https://https://8-ball-pool.github.io/) |
+| Guevarra, Alexey Andrea | [Menes, Chandleo William<sup>ok</sup>](https://8-ball-pool.github.io/) |
 | Ibasco, Kyle Dan | [Mota, Ma. Bernadette<sup>ok</sup>](https://ma-badeth.github.io/) |
 | Llorin, Thomas John | Olitoquit, Harry |
 | Medrano, Lorenzo Yani | [Peña, Aliyah Mari](http://32115000.github.io/) |
