@@ -23,7 +23,7 @@
 | [Mayao, Leigh Micah](https://15lhs.github.io/)<sup>`ok`</sup> | Plaza, Angelica Marie |
 | [Palcon, Mark Angel](https://mmaarrk.github.io/) | [Revilla, Rex Rafael](http://rexrevre.github.io/)<sup>`ok`</sup> |
 | [Pandes, Claudia Myrdith](https://diasednap.github.io/laurel/)<sup>`edit`</sup> | Rosari, Charly III |
-| [Posugac, John Angelo](https://tom-atoo.github.io/)<sup>`ok`</sup> | [Rubi, Leander Jay](https://riku462.github.io/)<sup>`ok`</sup> |
+| [Posugac, John Angelo](https://tom-atoo.github.io/)<sup>`ok`</sup> | [Rubi, Leander Jay](https://leanderjgr.github.io/) |
 | [Rubio, Jose Iñigo](http://ni60145.github.io/)<sup>`ok`</sup> | [Shaikh, Ali](https://riku462.github.io/)<sup>`ok`</sup> |
 | Villa, Cheenee Amory | [Sta. Clara, Salve](https://vhiel18.github.io/) |
 
