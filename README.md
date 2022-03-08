@@ -36,7 +36,7 @@
 | [Averilla, Janniah Sophia](https://sophii-33.github.io/)<sup>`ok`</sup> | [Camoñas, Anne Claudia](https://eysfmx.github.io/)<sup>`ok`</sup> |
 | [Bacho, Regie Ezra](https://erzark.github.io/)<sup>`ok`</sup> | [Castañares, Leigh Margarette](https://lmscedu.github.io/campion-b/) |
 | [Bahia, Samantha](https://bahia19113.github.io/)<sup>`ok`</sup> | Cortero, Miguel |
-| Bangoyna, Shan Carlo | [Cruz, Magar Dew](https://margxa.github.io/) |
+| [Bangoyna, Shan Carlo](https://shanbangz.github.io/B4ngz.github.io/) | [Cruz, Magar Dew](https://margxa.github.io/) |
 | [Blasco, Kim Lawrence](https://kimblasco.github.io/) | [De Los Santos, Eugene Gabriel](https://eudlsph.github.io/eudlsph4.github.io/)<sup>`ok`</sup> |
 | Bulalacao, Ryan | [Estares, Aaliyah Venizze](https://estaresaal.github.io/)<sup>`ok`</sup> |
 | [Dalisay, Godwin](https://godwinos.github.io/)<sup>`ok`</sup> | [Evangelista, Xavier Paul](https://xebeb.github.io/XavierEvangelista_CampionB/)<sup>`ok`</sup> |
@@ -46,15 +46,15 @@
 | Manalang, Kryselle Anne | [Joson, Rae Frances](https://raejoson.github.io/)<sup>`ok`</sup> |
 | [Negro, Kenshin Reema](https://ripknshn.github.io/) | Lanzuela, Neil Gabriel |
 | Oira, Ken Aurther Milek | Mandanas, Miguel Alfred |
-| [Oloya, Amber Colleen](https://am-collee.github.io/)<sup>`ok`</sup> | Moreno, Clint Russel |
-| [Paglinawan, Mathew Jerard](https://mjuwu.github.io/)<sup>`ok`</sup> | Nacario, Melchor |
+| [Oloya, Amber Colleen](https://am-collee.github.io/)<sup>`ok`</sup> | [Moreno, Clint Russel](https://clintmoreno.github.io/Egg/)<sup>`ok`</sup> |
+| [Paglinawan, Mathew Jerard](https://mjuwu.github.io/)<sup>`ok`</sup> | [Nacario, Melchor](https://nacario.github.io/641ngithub.com/)<sup>`ok`</sup> |
 | Rivera, Nathan Hendrik | [Nicolas, Andrea Trish](https://dreanicls.github.io/Andrea-s-Asian-Drama-Watchlist-kit/)<sup>`ok`</sup> |
 | [Sabillena, Vincent Gerard](https://v1nce72.github.io/) | [Nidea, Samuel Ivan](https://samunidea.github.io/)<sup>`ok`</sup> |
 | [Santiago, Jabez Phire](https://amcsantiago.github.io/) | [Ornido, Robert Sebastian](http://bastyornido.github.io/)<sup>`ok`</sup> |
-| Serranzana, Arianna Kayla | [Panganiban, Periel Matthew](https://matthiaspangiban.github.io/MAWInc/#)<sup>`ok`</sup> |
-| Siangchin, Samantha | [Perez, John Raymond Carlo](https://ijiray.github.io/)<sup>`ok`</sup> |
+| [Serranzana, Arianna Kayla](https://akreideprinz.github.io/anyaslungs/)<sup>`ok`</sup> | [Panganiban, Periel Matthew](https://matthiaspangiban.github.io/MAWInc/#)<sup>`ok`</sup> |
+| [Siangchin, Samantha](https://shamshangchuan.github.io/NieR-Automata/#)<sup>`ok`</sup> | [Perez, John Raymond Carlo](https://ijiray.github.io/)<sup>`ok`</sup> |
 | [Tatel, Armand Sergelio](https://armandtatel.github.io/) | [Santiago, Althea Mae](https://amcsantiago.github.io/)<sup>`ok`</sup> |
-| [Umali, Adriane](https://4idr74n3.github.io/)<sup>`ok`</sup> | Simando, Dorothy Ada |
+| [Umali, Adriane](https://4idr74n3.github.io/)<sup>`ok`</sup> | [Simando, Dorothy Ada](https://da-arcsim.github.io/) |
 |  | Villarin, Samantha Lurlin |
 
 ### Chabanel
