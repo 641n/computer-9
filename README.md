@@ -101,7 +101,7 @@
 | Guevarra, Alexey Andrea | [Menes, Chandleo William](https://8-ball-pool.github.io/)<sup>`ok`</sup> |
 | Ibasco, Kyle Dan | [Mota, Ma. Bernadette](https://ma-badeth.github.io/)<sup>`ok`</sup> |
 | Llorin, Thomas John | Olitoquit, Harry |
-| Medrano, Lorenzo Yani | [Peña, Aliyah Mari](http://32115000.github.io/) |
+| Medrano, Lorenzo Yani | [Peña, Aliyah Mari](http://32115000.github.io/)<sup>`ok`</sup> |
 | [Morales, Ava Francesca](https://afsales.github.io/Afsales.github/) | Rosanes, Gian Miguel |
 | [Remot, Ronald Joseph Ymmanoel](https://rjymmanoel.github.io/)<sup>`ok`</sup> | Santiago, Margarette |
 | [Sesgundo, Jaime Chikko](https://github.com/JCSes/JCSes.github.io/blob/79ae82905a7ffdf3a7b6b4b6fb3cec75a0f75062/index.md) | [Tan, Madisson Tyler](https://gitan-hub.github.io/)<sup>`ok`</sup> |
