@@ -8,7 +8,7 @@
 |---------|---------|
 | Armendi, Karl Jerome | [Abellada, John Myko](https://gudmornin.github.io/)<sup>`ok`</sup> |
 | [Avenido, Jarrel Joseph](https://ja-rr.github.io/Tenku/) | Albero, Gwen Erin |
-| Bongat, Dorothy Jean | Albeus, Rex Gabriel |
+| Bongat, Dorothy Jean | [Albeus, Rex Gabriel](https://aurumgd.github.io/Gold.github.io/) |
 | [Borbor, Carla Marie](https://github.com/nerfgone)<sup>`ok`</sup> | Ayao, Ma. Jem Suzaine |
 | Cabrera, Kathleen Chloe  | Ayo, Alyanna Gabrielle |
 | Calleja, Clark Lorenz Hugh | Bardaje, Jose Gabriel |
@@ -22,10 +22,10 @@
 | [Maravilla, Maurois Juza](https://maurois127.github.io/Dzone/)<sup>`ok`</sup> | Obras, Francheska |
 | [Mayao, Leigh Micah](https://15lhs.github.io/)<sup>`ok`</sup> | Plaza, Angelica Marie |
 | [Palcon, Mark Angel](https://mmaarrk.github.io/) | [Revilla, Rex Rafael](http://rexrevre.github.io/)<sup>`ok`</sup> |
-| [Pandes, Claudia Myrdith](https://diasednap.github.io/laurel/)<sup>`ok`</sup> | Rosari, Charly III |
+| [Pandes, Claudia Myrdith](https://diasednap.github.io/laurel/)<sup>`ok`</sup> | [Rosari, Charly III](https://cqthirdy824.github.io/brebeuf-b/)<sup>`ok`</sup> |
 | [Posugac, John Angelo](https://tom-atoo.github.io/)<sup>`ok`</sup> | [Rubi, Leander Jay](https://leanderjgr.github.io/)<sup>`ok`</sup> |
 | [Rubio, Jose Iñigo](http://ni60145.github.io/)<sup>`ok`</sup> | [Shaikh, Ali](https://riku462.github.io/)<sup>`ok`</sup> |
-| Villa, Cheenee Amory | [Sta. Clara, Salve](https://vhiel18.github.io/) |
+| [Villa, Cheenee Amory](https://cheeneevilla.github.io/) | [Sta. Clara, Salve](https://vhiel18.github.io/) |
 
 ### Campion
 
