@@ -95,14 +95,14 @@
 | [Caday, Gabriel Judel](https://gabrielcaday.github.io/gjcadayinfo/) | Daza, Leigh Francesca |
 | [Carilimdiliman, Jeremy Liam](https://jlkarim.github.io/) | [De La Rosa, Shen Keziah](https://shnndlr.github.io/) |
 | [Celso, Gabrielle Mae](https://gmcel.github.io/gmcel-github.io/)<sup>`ok`</sup> | Glipo, Katrice Riyanne |
-| Esteves, Janel | Gutierrez, Andrea |
+| [Esteves, Janel](https://jaene12.github.io/)<sup>`ok`</sup> | Gutierrez, Andrea |
 | [Estrada, Lara Mhadelle](https://eskeshiri.github.io/)<sup>`ok`</sup> | [Javier, Venice](https://jvvenice.github.io/jvvenice/)<sup>`ok`</sup> |
 | [Estravila, Jeanin Lestat](https://jlestravila.github.io/) | [Medenilla, Christian Daniel](http://cydros.github.io/) |
 | Guevarra, Alexey Andrea | [Menes, Chandleo William](https://8-ball-pool.github.io/)<sup>`ok`</sup> |
 | Ibasco, Kyle Dan | [Mota, Ma. Bernadette](https://ma-badeth.github.io/)<sup>`ok`</sup> |
 | Llorin, Thomas John | Olitoquit, Harry |
 | Medrano, Lorenzo Yani | [Peña, Aliyah Mari](http://32115000.github.io/) |
-| Morales, Ava Francesca | Rosanes, Gian Miguel |
+| [Morales, Ava Francesca](https://afsales.github.io/Afsales.github/) | Rosanes, Gian Miguel |
 | [Remot, Ronald Joseph Ymmanoel](https://rjymmanoel.github.io/)<sup>`ok`</sup> | Santiago, Margarette |
 | [Sesgundo, Jaime Chikko](https://github.com/JCSes/JCSes.github.io/blob/79ae82905a7ffdf3a7b6b4b6fb3cec75a0f75062/index.md) | [Tan, Madisson Tyler](https://gitan-hub.github.io/)<sup>`ok`</sup> |
 | Solares, Darena Jeslyn | Verdadero, Josef Benjamin |
