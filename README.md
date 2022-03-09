@@ -62,7 +62,7 @@
 | Group A | Group B | 
 |---------|---------|
 | Abejero, Justin Julian | Arroyo, Chryssa Dianne |
-| Abiog, Glerdanielle | [Castañeda, Eonna Francesca](https://eonnna.github.io/)<sup>`edit`</sup> |
+| [Abiog, Glerdanielle](https://glergahh.github.io/)<sup>`edit`</sup> | [Castañeda, Eonna Francesca](https://eonnna.github.io/)<sup>`edit`</sup> |
 | [Agapito, Ronin](https://ron1nn.github.io/)<sup>`ok`</sup> | [Cello, Denisse Ann](https://denicann.github.io/)<sup>`edit`</sup> |
 | [Ardeña, Anthony John](https://aja07.github.io/)<sup>`ok`</sup> | [Delaon, Dashiell Matthew](https://daassshhh.github.io/Daassshhhgithub.com/) |
 | Avila, Ethan Rommel | [Elecanal, Marie Hannah Emanuelle](https://mariehannah.github.io/)<sup>`ok`</sup> |
