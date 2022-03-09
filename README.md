@@ -43,7 +43,7 @@
 | [Gonzaga, Franc Iverdre](https://iverdre.github.io/)<sup>`ok`</sup> | [Geronimo, Brent Isaac](https://brentisaacgeronimo.github.io/br3nt/)<sup>`ok`</sup> |
 | [Hernandez, Luis Iñigo](https://inigo101.github.io/inigo101/)<sup>`ok`</sup> | Gloriani, Kyle Emanuelle |
 | [Ibarreta, Jenieva](https://i43yuna.github.io/)<sup>`ok`</sup> | [Hinagpis, Mark Vincent](https://mrk-hinagpis.github.io/MRK-HINAGPIS/) |
-| Manalang, Kryselle Anne | [Joson, Rae Frances](https://raejoson.github.io/)<sup>`ok`</sup> |
+| [Manalang, Kryselle Anne](https://kaileebelz.github.io/kwonk4i.github.io/) | [Joson, Rae Frances](https://raejoson.github.io/)<sup>`ok`</sup> |
 | [Negro, Kenshin Reema](https://ripknshn.github.io/) | Lanzuela, Neil Gabriel |
 | Oira, Ken Aurther Milek | Mandanas, Miguel Alfred |
 | [Oloya, Amber Colleen](https://am-collee.github.io/)<sup>`ok`</sup> | [Moreno, Clint Russel](https://clintmoreno.github.io/Egg/)<sup>`ok`</sup> |
@@ -55,7 +55,7 @@
 | [Siangchin, Samantha](https://shamshangchuan.github.io/NieR-Automata/#)<sup>`ok`</sup> | [Perez, John Raymond Carlo](https://ijiray.github.io/)<sup>`ok`</sup> |
 | [Tatel, Armand Sergelio](https://armandtatel.github.io/) | [Santiago, Althea Mae](https://amcsantiago.github.io/)<sup>`ok`</sup> |
 | [Umali, Adriane](https://4idr74n3.github.io/)<sup>`ok`</sup> | [Simando, Dorothy Ada](https://da-arcsim.github.io/)<sup>`ok`</sup> |
-|  | Villarin, Samantha Lurlin |
+|  | [Villarin, Samantha Lurlin](http://samantha-villarin.github.io/) |
 
 ### Chabanel
 
