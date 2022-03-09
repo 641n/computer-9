@@ -62,14 +62,14 @@
 | Group A | Group B | 
 |---------|---------|
 | Abejero, Justin Julian | Arroyo, Chryssa Dianne |
-| Abiog, Glerdanielle | [Castañeda, Eonna Francesca](https://eonnna.github.io/) |
-| [Agapito, Ronin](https://ron1nn.github.io/)<sup>`ok`</sup> | [Cello, Denisse Ann](https://denicann.github.io/) |
-| [Ardeña, Anthony John](https://aja07.github.io/)<sup>`edit`</sup> | [Delaon, Dashiell Matthew](https://daassshhh.github.io/Daassshhhgithub.com/) |
-| Avila, Ethan Rommel | [Elecanal, Marie Hannah Emanuelle](https://mariehannah.github.io/)<sup>`edit`</sup> |
+| Abiog, Glerdanielle | [Castañeda, Eonna Francesca](https://eonnna.github.io/)<sup>`edit`</sup> |
+| [Agapito, Ronin](https://ron1nn.github.io/)<sup>`ok`</sup> | [Cello, Denisse Ann](https://denicann.github.io/)<sup>`edit`</sup> |
+| [Ardeña, Anthony John](https://aja07.github.io/)<sup>`ok`</sup> | [Delaon, Dashiell Matthew](https://daassshhh.github.io/Daassshhhgithub.com/) |
+| Avila, Ethan Rommel | [Elecanal, Marie Hannah Emanuelle](https://mariehannah.github.io/)<sup>`ok`</sup> |
 | Belmonte, Rica Mae | Gaite, Juliana Lyenne |
 | Beltran, Niño Anthony | [Jocom, Shawn Israel](https://shawn-israel.github.io/) |
 | [Bico, Christine Abigail](https://dumplingss00.github.io/dumplingss00/) | [Lanuza, Priard Denver](https://banbbb.github.io/bannbbb.github.io/)<sup>`ok`</sup> |
-| [Casilihan, Nathan Xander](https://nathanowo.github.io/) | [Mandasoc, Kenneth Kendrick](https://c0fee.github.io/) |
+| [Casilihan, Nathan Xander](https://nathanowo.github.io/)<sup>`ok`</sup> | [Mandasoc, Kenneth Kendrick](https://c0fee.github.io/)<sup>`ok`</sup> |
 | [De Vera, Francis Russel](https://francisdevera2007.github.io/)<sup>`ok`</sup> | [Medrano, Lianna Marie](https://li4nn4.github.io/) |
 | Dichoso, Kimbhie Hannah | [Mendoza, John Kerby](https://john-kerby.github.io/)<sup>`ok`</sup> |
 | [Dy, Elyana Marie](https://yanie-uwu.github.io/Yanie-uwu/)<sup>`ok`</sup> | [Neola, Rayden](https://rayynnnn.github.io/)<sup>`ok`</sup> |
