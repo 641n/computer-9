@@ -67,7 +67,7 @@
 | [Ardeña, Anthony John](https://aja07.github.io/)<sup>`ok`</sup> | [Delaon, Dashiell Matthew](https://daassshhh.github.io/Daassshhhgithub.com/) |
 | Avila, Ethan Rommel | [Elecanal, Marie Hannah Emanuelle](https://mariehannah.github.io/)<sup>`ok`</sup> |
 | Belmonte, Rica Mae | Gaite, Juliana Lyenne |
-| Beltran, Niño Anthony | [Jocom, Shawn Israel](https://shawn-israel.github.io/) |
+| [Beltran, Niño Anthony](https://ninslg2.github.io/) | [Jocom, Shawn Israel](https://shawn-israel.github.io/) |
 | [Bico, Christine Abigail](https://dumplingss00.github.io/dumplingss00/) | [Lanuza, Priard Denver](https://banbbb.github.io/bannbbb.github.io/)<sup>`ok`</sup> |
 | [Casilihan, Nathan Xander](https://nathanowo.github.io/)<sup>`ok`</sup> | [Mandasoc, Kenneth Kendrick](https://c0fee.github.io/)<sup>`ok`</sup> |
 | [De Vera, Francis Russel](https://francisdevera2007.github.io/)<sup>`ok`</sup> | [Medrano, Lianna Marie](https://li4nn4.github.io/) |
@@ -78,7 +78,7 @@
 | Llanza, Patricia Dinesi | [Salcedo, Hannah](https://aespaghetti.github.io/) |
 | [Otao, Edsel Mark Adam](https://happiboy.github.io/) | San Andres, Wilhelm III |
 | [Panliboton, Francesca Michaela](https://nejiiiii.github.io/) | Seva, Dandee |
-| Saraspi, Kiera Kristoff | [Sevilla, Maria Consuelo](https://c0nsuel0.github.io/c0nsuelo.github.io/)<sup>`ok`</sup> |
+| [Saraspi, Kiera Kristoff](https://476kk.github.io/467kk.github.io/) | [Sevilla, Maria Consuelo](https://c0nsuel0.github.io/c0nsuelo.github.io/)<sup>`ok`</sup> |
 | [Sugiyama, Marika](https://psychochild613.github.io/PsychoChild613/)<sup>`ok`</sup> | Soreta, Francis James |
 |  | Yuboco, Matthew Angelo |
 
