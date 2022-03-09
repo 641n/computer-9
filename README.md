@@ -92,19 +92,19 @@
 | Belleza, Alfonso Benedict | Cabaña, Juan Rico Martin |
 | Brazan, David John | Carpo, Renz Donn |
 | [Buenaflor, Niña](https://yyynaa.github.io/) | [Dait, Francezka Gabrielle](https://fr1nce.github.io/) |
-| [Caday, Gabriel Judel](https://gabrielcaday.github.io/gjcadayinfo/) | Daza, Leigh Francesca |
+| [Caday, Gabriel Judel](https://gabrielcaday.github.io/gjcadayinfo/)<sup>`ok`</sup> | Daza, Leigh Francesca |
 | [Carilimdiliman, Jeremy Liam](https://jlkarim.github.io/) | [De La Rosa, Shen Keziah](https://shnndlr.github.io/) |
 | [Celso, Gabrielle Mae](https://gmcel.github.io/gmcel-github.io/)<sup>`ok`</sup> | Glipo, Katrice Riyanne |
 | [Esteves, Janel](https://jaene12.github.io/)<sup>`ok`</sup> | Gutierrez, Andrea |
 | [Estrada, Lara Mhadelle](https://eskeshiri.github.io/)<sup>`ok`</sup> | [Javier, Venice](https://jvvenice.github.io/jvvenice/)<sup>`ok`</sup> |
-| [Estravila, Jeanin Lestat](https://jlestravila.github.io/) | [Medenilla, Christian Daniel](http://cydros.github.io/) |
+| [Estravila, Jeanin Lestat](https://jlestravila.github.io/) | [Medenilla, Christian Daniel](http://cydros.github.io/)<sup>`ok`</sup> |
 | Guevarra, Alexey Andrea | [Menes, Chandleo William](https://8-ball-pool.github.io/)<sup>`ok`</sup> |
 | Ibasco, Kyle Dan | [Mota, Ma. Bernadette](https://ma-badeth.github.io/)<sup>`ok`</sup> |
 | Llorin, Thomas John | Olitoquit, Harry |
 | Medrano, Lorenzo Yani | [Peña, Aliyah Mari](http://32115000.github.io/)<sup>`ok`</sup> |
 | [Morales, Ava Francesca](https://afsales.github.io/Afsales.github/)<sup>`ok`</sup> | Rosanes, Gian Miguel |
 | [Remot, Ronald Joseph Ymmanoel](https://rjymmanoel.github.io/)<sup>`ok`</sup> | Santiago, Margarette |
-| [Sesgundo, Jaime Chikko](https://github.com/JCSes/JCSes.github.io/blob/79ae82905a7ffdf3a7b6b4b6fb3cec75a0f75062/index.md) | [Tan, Madisson Tyler](https://gitan-hub.github.io/)<sup>`ok`</sup> |
+| [Sesgundo, Jaime Chikko](https://JCSes.github.io/) | [Tan, Madisson Tyler](https://gitan-hub.github.io/)<sup>`ok`</sup> |
 | Solares, Darena Jeslyn | Verdadero, Josef Benjamin |
 | [Volante, Ghieann Ashley](https://yelshagavie.github.io/) | Villacruz, Jerry Joseph |
 
