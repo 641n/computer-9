@@ -95,7 +95,7 @@
 | [Caday, Gabriel Judel](https://gabrielcaday.github.io/gjcadayinfo/)<sup>`ok`</sup> | Daza, Leigh Francesca |
 | [Carilimdiliman, Jeremy Liam](https://jlkarim.github.io/) | [De La Rosa, Shen Keziah](https://shnndlr.github.io/) |
 | [Celso, Gabrielle Mae](https://gmcel.github.io/gmcel-github.io/)<sup>`ok`</sup> | Glipo, Katrice Riyanne |
-| [Esteves, Janel](https://jaene12.github.io/)<sup>`ok`</sup> | Gutierrez, Andrea |
+| [Esteves, Janel](https://jaene12.github.io/)<sup>`ok`</sup> | [Gutierrez, Andrea](https://andreanpg.github.io/)<sup>`error`</sup> |
 | [Estrada, Lara Mhadelle](https://eskeshiri.github.io/)<sup>`ok`</sup> | [Javier, Venice](https://jvvenice.github.io/jvvenice/)<sup>`ok`</sup> |
 | [Estravila, Jeanin Lestat](https://jlestravila.github.io/) | [Medenilla, Christian Daniel](http://cydros.github.io/)<sup>`ok`</sup> |
 | [Guevarra, Alexey Andrea](https://alguevarra.github.io/) | [Menes, Chandleo William](https://8-ball-pool.github.io/)<sup>`ok`</sup> |
