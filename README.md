@@ -103,7 +103,7 @@
 | Llorin, Thomas John | Olitoquit, Harry |
 | Medrano, Lorenzo Yani | [Peña, Aliyah Mari](http://32115000.github.io/)<sup>`ok`</sup> |
 | [Morales, Ava Francesca](https://afsales.github.io/Afsales.github/)<sup>`ok`</sup> | Rosanes, Gian Miguel |
-| [Remot, Ronald Joseph Ymmanoel](https://rjymmanoel.github.io/)<sup>`ok`</sup> | Santiago, Margarette |
+| [Remot, Ronald Joseph Ymmanoel](https://rjymmanoel.github.io/)<sup>`ok`</sup> | [Santiago, Margarette](https://margasntg.github.io/)<sup>`ok`</sup> |
 | [Sesgundo, Jaime Chikko](https://JCSes.github.io/) | [Tan, Madisson Tyler](https://gitan-hub.github.io/)<sup>`ok`</sup> |
 | Solares, Darena Jeslyn | Verdadero, Josef Benjamin |
 | [Volante, Ghieann Ashley](https://yelshagavie.github.io/) | Villacruz, Jerry Joseph |
