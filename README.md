@@ -38,7 +38,7 @@
 | [Bahia, Samantha](https://bahia19113.github.io/)<sup>`ok`</sup> | Cortero, Miguel |
 | [Bangoyna, Shan Carlo](https://shanbangz.github.io/B4ngz.github.io/) | [Cruz, Magar Dew](https://margxa.github.io/)<sup>`ok`</sup> |
 | [Blasco, Kim Lawrence](https://kimblasco.github.io/) | [De Los Santos, Eugene Gabriel](https://eudlsph.github.io/eudlsph4.github.io/)<sup>`ok`</sup> |
-| Bulalacao, Ryan | [Estares, Aaliyah Venizze](https://estaresaal.github.io/)<sup>`ok`</sup> |
+| [Bulalacao, Ryan](https://mithci.github.io/)<sup>`ok`</sup> | [Estares, Aaliyah Venizze](https://estaresaal.github.io/)<sup>`ok`</sup> |
 | [Dalisay, Godwin](https://godwinos.github.io/)<sup>`ok`</sup> | [Evangelista, Xavier Paul](https://xebeb.github.io/XavierEvangelista_CampionB/)<sup>`ok`</sup> |
 | [Gonzaga, Franc Iverdre](https://iverdre.github.io/)<sup>`ok`</sup> | [Geronimo, Brent Isaac](https://brentisaacgeronimo.github.io/br3nt/)<sup>`ok`</sup> |
 | [Hernandez, Luis Iñigo](https://inigo101.github.io/inigo101/)<sup>`ok`</sup> | Gloriani, Kyle Emanuelle |
