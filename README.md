@@ -73,7 +73,7 @@
 | [De Vera, Francis Russel](https://francisdevera2007.github.io/)<sup>`ok`</sup> | [Medrano, Lianna Marie](https://li4nn4.github.io/) |
 | Dichoso, Kimbhie Hannah | [Mendoza, John Kerby](https://john-kerby.github.io/)<sup>`ok`</sup> |
 | [Dy, Elyana Marie](https://yanie-uwu.github.io/Yanie-uwu/)<sup>`ok`</sup> | [Neola, Rayden](https://rayynnnn.github.io/)<sup>`ok`</sup> |
-| [Francia, Trisha Arwen](https://github.com/treshyy)<sup>`error`</sup> | [Parco, Sean Bradley](https://parc0.github.io/)<sup>`ok`</sup> |
+| [Francia, Trisha Arwen](https://github.com/treshyy)<sup>`error`</sup> | [Parco, Sean Bradley](https://parc0.github.io/Coparc.github.io/)<sup>`ok`</sup> |
 | [Fullante, Lance Victor](https://sioptimum-pride.github.io/Classified-Docs/)<sup>`ok`</sup> | Ruizo, Rikka Marie Thea |
 | Llanza, Patricia Dinesi | [Salcedo, Hannah](https://aespaghetti.github.io/) |
 | [Otao, Edsel Mark Adam](https://happiboy.github.io/) | San Andres, Wilhelm III |
