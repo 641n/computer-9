@@ -32,11 +32,11 @@
 | Group A | Group B | 
 |---------|---------|
 | [Abergos, Sean Arman](https://seanabr.github.io/)<sup>`ok`</sup> | [Alexopoulos, Jon Audi](https://johnandy-11.github.io/Chess/)<sup>`ok`</sup> |
-| [Argote, Zianne](https://ziianne.github.io/) | [Arevalo, Aivan Matthew](http://saltedspice.github.io/)<sup>`ok`</sup> |
+| [Argote, Zianne](https://ziianne.github.io/)<sup>`ok`</sup> | [Arevalo, Aivan Matthew](http://saltedspice.github.io/)<sup>`ok`</sup> |
 | [Averilla, Janniah Sophia](https://sophii-33.github.io/)<sup>`ok`</sup> | [Camoñas, Anne Claudia](https://eysfmx.github.io/)<sup>`ok`</sup> |
 | [Bacho, Regie Ezra](https://erzark.github.io/)<sup>`ok`</sup> | [Castañares, Leigh Margarette](https://lmscedu.github.io/campion-b/)<sup>`error`</sup> |
 | [Bahia, Samantha](https://bahia19113.github.io/)<sup>`ok`</sup> | [Cortero, Miguel](https://miguel-cortero.github.io/3D.github.io/) |
-| [Bangoyna, Shan Carlo](https://shanbangz.github.io/B4ngz.github.io/) | [Cruz, Magar Dew](https://margxa.github.io/)<sup>`ok`</sup> |
+| [Bangoyna, Shan Carlo](https://shanbangz.github.io/B4ngz.github.io/)<sup>`ok`</sup> | [Cruz, Magar Dew](https://margxa.github.io/)<sup>`ok`</sup> |
 | [Blasco, Kim Lawrence](https://kimblasco.github.io/) | [De Los Santos, Eugene Gabriel](https://eudlsph.github.io/eudlsph4.github.io/)<sup>`ok`</sup> |
 | [Bulalacao, Ryan](https://mithci.github.io/)<sup>`ok`</sup> | [Estares, Aaliyah Venizze](https://estaresaal.github.io/)<sup>`ok`</sup> |
 | [Dalisay, Godwin](https://godwinos.github.io/)<sup>`ok`</sup> | [Evangelista, Xavier Paul](https://xebeb.github.io/XavierEvangelista_CampionB/)<sup>`ok`</sup> |
