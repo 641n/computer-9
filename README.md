@@ -35,13 +35,13 @@
 | [Argote, Zianne](https://ziianne.github.io/) | [Arevalo, Aivan Matthew](http://saltedspice.github.io/)<sup>`ok`</sup> |
 | [Averilla, Janniah Sophia](https://sophii-33.github.io/)<sup>`ok`</sup> | [Camoñas, Anne Claudia](https://eysfmx.github.io/)<sup>`ok`</sup> |
 | [Bacho, Regie Ezra](https://erzark.github.io/)<sup>`ok`</sup> | [Castañares, Leigh Margarette](https://lmscedu.github.io/campion-b/)<sup>`error`</sup> |
-| [Bahia, Samantha](https://bahia19113.github.io/)<sup>`ok`</sup> | Cortero, Miguel |
+| [Bahia, Samantha](https://bahia19113.github.io/)<sup>`ok`</sup> | [Cortero, Miguel](https://miguel-cortero.github.io/3D.github.io/) |
 | [Bangoyna, Shan Carlo](https://shanbangz.github.io/B4ngz.github.io/) | [Cruz, Magar Dew](https://margxa.github.io/)<sup>`ok`</sup> |
 | [Blasco, Kim Lawrence](https://kimblasco.github.io/) | [De Los Santos, Eugene Gabriel](https://eudlsph.github.io/eudlsph4.github.io/)<sup>`ok`</sup> |
 | [Bulalacao, Ryan](https://mithci.github.io/)<sup>`ok`</sup> | [Estares, Aaliyah Venizze](https://estaresaal.github.io/)<sup>`ok`</sup> |
 | [Dalisay, Godwin](https://godwinos.github.io/)<sup>`ok`</sup> | [Evangelista, Xavier Paul](https://xebeb.github.io/XavierEvangelista_CampionB/)<sup>`ok`</sup> |
 | [Gonzaga, Franc Iverdre](https://iverdre.github.io/)<sup>`ok`</sup> | [Geronimo, Brent Isaac](https://brentisaacgeronimo.github.io/br3nt/)<sup>`ok`</sup> |
-| [Hernandez, Luis Iñigo](https://inigo101.github.io/inigo101/)<sup>`ok`</sup> | Gloriani, Kyle Emanuelle |
+| [Hernandez, Luis Iñigo](https://inigo101.github.io/inigo101/)<sup>`ok`</sup> | [Gloriani, Kyle Emanuelle](https://ky73d147.github.io/Recruitment-Hub/)<sup>`ok`</sup> |
 | [Ibarreta, Jenieva](https://i43yuna.github.io/)<sup>`ok`</sup> | [Hinagpis, Mark Vincent](https://mrk-hinagpis.github.io/MRK-HINAGPIS/) |
 | [Manalang, Kryselle Anne](https://kaileebelz.github.io/kwonk4i.github.io/) | [Joson, Rae Frances](https://raejoson.github.io/)<sup>`ok`</sup> |
 | [Negro, Kenshin Reema](https://ripknshn.github.io/) | Lanzuela, Neil Gabriel |
