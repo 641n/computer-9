@@ -12,7 +12,7 @@
 | [Borbor, Carla Marie](https://github.com/nerfgone)<sup>`ok`</sup> | Ayao, Ma. Jem Suzaine |
 | Cabrera, Kathleen Chloe  | Ayo, Alyanna Gabrielle |
 | Calleja, Clark Lorenz Hugh | Bardaje, Jose Gabriel |
-| [Cariño, Anthea Andrea](https://akaririn96.github.io/Akaris-website/) | [Betito, Maria Bianca Isabel](https://bncasbl.github.io/) |
+| [Cariño, Anthea Andrea](https://akaririn96.github.io/Akaris-website/)<sup>`edit`</sup> | [Betito, Maria Bianca Isabel](https://bncasbl.github.io/) |
 | [Cueto, Sean Marco](https://seanmarconcueto.github.io/sean/)<sup>`ok`</sup> | Biana, James Anthony |
 | [Daanoy, Karl Anthony](https://kael04.github.io/) | Bustilla, Carmela Anne Marie |
 | [Florendo, Antonio Joaquin](https://lelite2150.github.io/)<sup>`edit`</sup> | [Cantor, Angel Louise](https://louiseaa.github.io/)<sup>`ok`</sup> |
@@ -64,7 +64,7 @@
 | Abejero, Justin Julian | Arroyo, Chryssa Dianne |
 | [Abiog, Glerdanielle](https://glergahh.github.io/)<sup>`edit`</sup> | [Castañeda, Eonna Francesca](https://eonnna.github.io/)<sup>`edit`</sup> |
 | [Agapito, Ronin](https://ron1nn.github.io/)<sup>`ok`</sup> | [Cello, Denisse Ann](https://denicann.github.io/)<sup>`edit`</sup> |
-| [Ardeña, Anthony John](https://aja07.github.io/)<sup>`ok`</sup> | [Delaon, Dashiell Matthew](https://daassshhh.github.io/Daassshhhgithub.com/) |
+| [Ardeña, Anthony John](https://aja07.github.io/)<sup>`ok`</sup> | [Delaon, Dashiell Matthew](https://daassshhh.github.io/Daassshhhgithub.com/)<sup>`ok`</sup> |
 | Avila, Ethan Rommel | [Elecanal, Marie Hannah Emanuelle](https://mariehannah.github.io/)<sup>`ok`</sup> |
 | Belmonte, Rica Mae | Gaite, Juliana Lyenne |
 | [Beltran, Niño Anthony](https://ninslg2.github.io/) | [Jocom, Shawn Israel](https://shawn-israel.github.io/) |
@@ -91,7 +91,7 @@
 | Baylon, Aizeah | [Arenillo, Louis Kristian](http://lou1s69.github.io/) |
 | Belleza, Alfonso Benedict | Cabaña, Juan Rico Martin |
 | Brazan, David John | Carpo, Renz Donn |
-| [Buenaflor, Niña](https://yyynaa.github.io/) | [Dait, Francezka Gabrielle](https://fr1nce.github.io/) |
+| [Buenaflor, Niña](https://yyynaa.github.io/)<sup>`error`</sup> | [Dait, Francezka Gabrielle](https://fr1nce.github.io/)<sup>`ok`</sup> |
 | [Caday, Gabriel Judel](https://gabrielcaday.github.io/gjcadayinfo/)<sup>`ok`</sup> | Daza, Leigh Francesca |
 | [Carilimdiliman, Jeremy Liam](https://jlkarim.github.io/) | [De La Rosa, Shen Keziah](https://shnndlr.github.io/) |
 | [Celso, Gabrielle Mae](https://gmcel.github.io/gmcel-github.io/)<sup>`ok`</sup> | Glipo, Katrice Riyanne |
