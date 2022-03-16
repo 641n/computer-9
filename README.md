@@ -19,7 +19,7 @@
 | [Gaite, Emma Isabela](https://maccssxd.github.io/) | Guibilondo, Reece Gianray |
 | [Guadalupe, Widmarc Kymm](https://kkmymm.github.io/)<sup>`ok`</sup> | Naval, Juan Lorenzo |
 | [Lozano, Ricardo IV](https://xenn06.github.io/samplexen/)<sup>`edit`</sup> | Nogales, Matthieu Harven |
-| [Maravilla, Maurois Juza](https://maurois127.github.io/Dzone/)<sup>`ok`</sup> | Obras, Francheska |
+| [Maravilla, Maurois Juza](https://maurois127.github.io/Dzone/)<sup>`ok`</sup> | [Obras, Francheska](https://frakooob.github.io/)<sup>`edit`</sup> |
 | [Mayao, Leigh Micah](https://15lhs.github.io/)<sup>`ok`</sup> | Plaza, Angelica Marie |
 | [Palcon, Mark Angel](https://mmaarrk.github.io/) | [Revilla, Rex Rafael](http://rexrevre.github.io/)<sup>`ok`</sup> |
 | [Pandes, Claudia Myrdith](https://diasednap.github.io/laurel/)<sup>`ok`</sup> | [Rosari, Charly III](https://cqthirdy824.github.io/brebeuf-b/)<sup>`ok`</sup> |
