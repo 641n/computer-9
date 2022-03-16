@@ -43,7 +43,7 @@
 | [Gonzaga, Franc Iverdre](https://iverdre.github.io/)<sup>`ok`</sup> | [Geronimo, Brent Isaac](https://brentisaacgeronimo.github.io/br3nt/)<sup>`ok`</sup> |
 | [Hernandez, Luis Iñigo](https://inigo101.github.io/inigo101/)<sup>`ok`</sup> | [Gloriani, Kyle Emanuelle](https://ky73d147.github.io/Recruitment-Hub/)<sup>`ok`</sup> |
 | [Ibarreta, Jenieva](https://i43yuna.github.io/)<sup>`ok`</sup> | [Hinagpis, Mark Vincent](https://mrk-hinagpis.github.io/MRK-HINAGPIS/) |
-| [Manalang, Kryselle Anne](https://kaileebelz.github.io/kwonk4i.github.io/) | [Joson, Rae Frances](https://raejoson.github.io/)<sup>`ok`</sup> |
+| [Manalang, Kryselle Anne](https://kaileebelz.github.io/kwonk4i.github.io/)<sup>`ok`</sup> | [Joson, Rae Frances](https://raejoson.github.io/)<sup>`ok`</sup> |
 | [Negro, Kenshin Reema](https://ripknshn.github.io/) | Lanzuela, Neil Gabriel |
 | Oira, Ken Aurther Milek | Mandanas, Miguel Alfred |
 | [Oloya, Amber Colleen](https://am-collee.github.io/)<sup>`ok`</sup> | [Moreno, Clint Russel](https://clintmoreno.github.io/Egg/)<sup>`ok`</sup> |
@@ -62,7 +62,7 @@
 | Group A | Group B | 
 |---------|---------|
 | Abejero, Justin Julian | Arroyo, Chryssa Dianne |
-| [Abiog, Glerdanielle](https://glergahh.github.io/)<sup>`edit`</sup> | [Castañeda, Eonna Francesca](https://eonnna.github.io/)<sup>`edit`</sup> |
+| [Abiog, Glerdanielle](https://glergahh.github.io/)<sup>`edit`</sup> | [Castañeda, Eonna Francesca](https://eonnna.github.io/)<sup>`ok`</sup> |
 | [Agapito, Ronin](https://ron1nn.github.io/)<sup>`ok`</sup> | [Cello, Denisse Ann](https://denicann.github.io/)<sup>`edit`</sup> |
 | [Ardeña, Anthony John](https://aja07.github.io/)<sup>`ok`</sup> | [Delaon, Dashiell Matthew](https://daassshhh.github.io/Daassshhhgithub.com/)<sup>`ok`</sup> |
 | Avila, Ethan Rommel | [Elecanal, Marie Hannah Emanuelle](https://mariehannah.github.io/)<sup>`ok`</sup> |
@@ -77,7 +77,7 @@
 | [Fullante, Lance Victor](https://sioptimum-pride.github.io/Classified-Docs/)<sup>`ok`</sup> | Ruizo, Rikka Marie Thea |
 | Llanza, Patricia Dinesi | [Salcedo, Hannah](https://aespaghetti.github.io/) |
 | [Otao, Edsel Mark Adam](https://happiboy.github.io/) | San Andres, Wilhelm III |
-| [Panliboton, Francesca Michaela](https://nejiiiii.github.io/) | Seva, Dandee |
+| [Panliboton, Francesca Michaela](https://nejiiiii.github.io/)<sup>`ok`</sup> | Seva, Dandee |
 | [Saraspi, Kiera Kristoff](https://476kk.github.io/467kk.github.io/) | [Sevilla, Maria Consuelo](https://c0nsuel0.github.io/c0nsuelo.github.io/)<sup>`ok`</sup> |
 | [Sugiyama, Marika](https://psychochild613.github.io/PsychoChild613/)<sup>`ok`</sup> | Soreta, Francis James |
 |  | Yuboco, Matthew Angelo |
@@ -93,7 +93,7 @@
 | Brazan, David John | Carpo, Renz Donn |
 | [Buenaflor, Niña](https://yyynaa.github.io/)<sup>`error`</sup> | [Dait, Francezka Gabrielle](https://fr1nce.github.io/)<sup>`ok`</sup> |
 | [Caday, Gabriel Judel](https://gabrielcaday.github.io/gjcadayinfo/)<sup>`ok`</sup> | Daza, Leigh Francesca |
-| [Carilimdiliman, Jeremy Liam](https://jlkarim.github.io/) | [De La Rosa, Shen Keziah](https://shnndlr.github.io/) |
+| [Carilimdiliman, Jeremy Liam](https://jlkarim.github.io/) | [De La Rosa, Shen Keziah](https://shnndlr.github.io/)<sup>`ok`</sup> |
 | [Celso, Gabrielle Mae](https://gmcel.github.io/gmcel-github.io/)<sup>`ok`</sup> | Glipo, Katrice Riyanne |
 | [Esteves, Janel](https://jaene12.github.io/)<sup>`ok`</sup> | [Gutierrez, Andrea](https://andreanpg.github.io/) |
 | [Estrada, Lara Mhadelle](https://eskeshiri.github.io/)<sup>`ok`</sup> | [Javier, Venice](https://jvvenice.github.io/jvvenice/)<sup>`ok`</sup> |
@@ -104,7 +104,7 @@
 | Medrano, Lorenzo Yani | [Peña, Aliyah Mari](http://32115000.github.io/)<sup>`ok`</sup> |
 | [Morales, Ava Francesca](https://afsales.github.io/Afsales.github/)<sup>`ok`</sup> | [Rosanes, Gian Miguel](https://gmrosanes.github.io/) |
 | [Remot, Ronald Joseph Ymmanoel](https://rjymmanoel.github.io/)<sup>`ok`</sup> | [Santiago, Margarette](https://margasntg.github.io/)<sup>`ok`</sup> |
-| [Sesgundo, Jaime Chikko](https://JCSes.github.io/) | [Tan, Madisson Tyler](https://gitan-hub.github.io/)<sup>`ok`</sup> |
+| [Sesgundo, Jaime Chikko](https://JCSes.github.io/)<sup>`ok`</sup> | [Tan, Madisson Tyler](https://gitan-hub.github.io/)<sup>`ok`</sup> |
 | Solares, Darena Jeslyn | Verdadero, Josef Benjamin |
 | [Volante, Ghieann Ashley](https://yelshagavie.github.io/) | Villacruz, Jerry Joseph |
 
