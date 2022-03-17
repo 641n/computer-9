@@ -48,7 +48,7 @@
 | Oira, Ken Aurther Milek | Mandanas, Miguel Alfred |
 | [Oloya, Amber Colleen](https://am-collee.github.io/)<sup>`ok`</sup> | [Moreno, Clint Russel](https://clintmoreno.github.io/Egg/)<sup>`ok`</sup> |
 | [Paglinawan, Mathew Jerard](https://mjuwu.github.io/)<sup>`ok`</sup> | [Nacario, Melchor](https://nacario.github.io/641ngithub.com/)<sup>`ok`</sup> |
-| Rivera, Nathan Hendrik | [Nicolas, Andrea Trish](https://dreanicls.github.io/Andrea-s-Asian-Drama-Watchlist-kit/)<sup>`ok`</sup> |
+| [Rivera, Nathan Hendrik](https://lezzgotan.github.io/) | [Nicolas, Andrea Trish](https://dreanicls.github.io/Andrea-s-Asian-Drama-Watchlist-kit/)<sup>`ok`</sup> |
 | [Sabillena, Vincent Gerard](https://v1nce72.github.io/) | [Nidea, Samuel Ivan](https://samunidea.github.io/)<sup>`ok`</sup> |
 | [Santiago, Jabez Phire](https://amcsantiago.github.io/)<sup>`ok`</sup> | [Ornido, Robert Sebastian](http://bastyornido.github.io/)<sup>`ok`</sup> |
 | [Serranzana, Arianna Kayla](https://akreideprinz.github.io/anyaslungs/)<sup>`ok`</sup> | [Panganiban, Periel Matthew](https://matthiaspangiban.github.io/MAWInc/#)<sup>`ok`</sup> |
