@@ -10,7 +10,7 @@
 | [Avenido, Jarrel Joseph](https://ja-rr.github.io/Tenku/) | Albero, Gwen Erin |
 | Bongat, Dorothy Jean | [Albeus, Rex Gabriel](https://aurumgd.github.io/Gold.github.io/) |
 | [Borbor, Carla Marie](https://github.com/nerfgone)<sup>`ok`</sup> | Ayao, Ma. Jem Suzaine |
-| Cabrera, Kathleen Chloe  | Ayo, Alyanna Gabrielle |
+| Cabrera, Kathleen Chloe  | [Ayo, Alyanna Gabrielle](https://choccymilkue.github.io/choccymilkue/)<sup>`edit`</sup> |
 | Calleja, Clark Lorenz Hugh | Bardaje, Jose Gabriel |
 | [Cariño, Anthea Andrea](https://akaririn96.github.io/Akaris-website/)<sup>`edit`</sup> | [Betito, Maria Bianca Isabel](https://bncasbl.github.io/) |
 | [Cueto, Sean Marco](https://seanmarconcueto.github.io/sean/)<sup>`ok`</sup> | Biana, James Anthony |
