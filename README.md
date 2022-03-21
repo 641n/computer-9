@@ -16,7 +16,7 @@
 | [Cueto, Sean Marco](https://seanmarconcueto.github.io/sean/)<sup>`ok`</sup> | Biana, James Anthony |
 | [Daanoy, Karl Anthony](https://kael04.github.io/) | Bustilla, Carmela Anne Marie |
 | [Florendo, Antonio Joaquin](https://lelite2150.github.io/)<sup>`edit`</sup> | [Cantor, Angel Louise](https://louiseaa.github.io/)<sup>`ok`</sup> |
-| [Gaite, Emma Isabela](https://maccssxd.github.io/) | Guibilondo, Reece Gianray |
+| [Gaite, Emma Isabela](https://uwuwukid.github.io/uwuwu.github.io/)<sup>`ok`</sup> | Guibilondo, Reece Gianray |
 | [Guadalupe, Widmarc Kymm](https://kkmymm.github.io/)<sup>`ok`</sup> | Naval, Juan Lorenzo |
 | [Lozano, Ricardo IV](https://xenn06.github.io/samplexen/)<sup>`edit`</sup> | Nogales, Matthieu Harven |
 | [Maravilla, Maurois Juza](https://maurois127.github.io/Dzone/)<sup>`ok`</sup> | [Obras, Francheska](https://frakooob.github.io/)<sup>`edit`</sup> |
@@ -29,7 +29,6 @@
 
 ### Campion
 
-| Group A | Group B | 
 |---------|---------|
 | [Abergos, Sean Arman](https://seanabr.github.io/)<sup>`ok`</sup> | [Alexopoulos, Jon Audi](https://johnandy-11.github.io/Chess/)<sup>`ok`</sup> |
 | [Argote, Zianne](https://ziianne.github.io/)<sup>`ok`</sup> | [Arevalo, Aivan Matthew](http://saltedspice.github.io/)<sup>`ok`</sup> |
@@ -71,12 +70,12 @@
 | [Bico, Christine Abigail](https://dumplingss00.github.io/dumplingss00/) | [Lanuza, Priard Denver](https://banbbb.github.io/bannbbb.github.io/)<sup>`ok`</sup> |
 | [Casilihan, Nathan Xander](https://nathanowo.github.io/)<sup>`ok`</sup> | [Mandasoc, Kenneth Kendrick](https://c0fee.github.io/)<sup>`ok`</sup> |
 | [De Vera, Francis Russel](https://francisdevera2007.github.io/)<sup>`ok`</sup> | [Medrano, Lianna Marie](https://li4nn4.github.io/) |
-| Dichoso, Kimbhie Hannah | [Mendoza, John Kerby](https://john-kerby.github.io/)<sup>`ok`</sup> |
+| [Dichoso, Kimbhie Hannah](https://averagestudent3.github.io/)<sup>`ok`</sup> | [Mendoza, John Kerby](https://john-kerby.github.io/)<sup>`ok`</sup> |
 | [Dy, Elyana Marie](https://yanie-uwu.github.io/Yanie-uwu/)<sup>`ok`</sup> | [Neola, Rayden](https://rayynnnn.github.io/)<sup>`ok`</sup> |
 | [Francia, Trisha Arwen](https://github.com/treshyy)<sup>`error`</sup> | [Parco, Sean Bradley](https://parc0.github.io/Coparc.github.io/)<sup>`ok`</sup> |
 | [Fullante, Lance Victor](https://sioptimum-pride.github.io/Classified-Docs/)<sup>`ok`</sup> | Ruizo, Rikka Marie Thea |
 | Llanza, Patricia Dinesi | [Salcedo, Hannah](https://aespaghetti.github.io/)<sup>`ok`</sup> |
-| [Otao, Edsel Mark Adam](https://happiboy.github.io/) | San Andres, Wilhelm III |
+| [Otao, Edsel Mark Adam](https://happiboy.github.io/) | [San Andres, Wilhelm III](https://github.com/Wilhelm29/Wilhelm29.github.io)<sup>`ok`</sup> |
 | [Panliboton, Francesca Michaela](https://nejiiiii.github.io/)<sup>`ok`</sup> | Seva, Dandee |
 | [Saraspi, Kiera Kristoff](https://476kk.github.io/467kk.github.io/) | [Sevilla, Maria Consuelo](https://c0nsuel0.github.io/c0nsuelo.github.io/)<sup>`ok`</sup> |
 | [Sugiyama, Marika](https://psychochild613.github.io/PsychoChild613/)<sup>`ok`</sup> | Soreta, Francis James |
