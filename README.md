@@ -25,7 +25,7 @@
 | [Pandes, Claudia Myrdith](https://diasednap.github.io/laurel/)<sup>`ok`</sup> | [Rosari, Charly III](https://cqthirdy824.github.io/brebeuf-b/)<sup>`ok`</sup> |
 | [Posugac, John Angelo](https://tom-atoo.github.io/)<sup>`ok`</sup> | [Rubi, Leander Jay](https://leanderjgr.github.io/)<sup>`ok`</sup> |
 | [Rubio, Jose Iñigo](http://ni60145.github.io/)<sup>`ok`</sup> | [Shaikh, Ali](https://riku462.github.io/)<sup>`ok`</sup> |
-| [Villa, Cheenee Amory](https://cheeneevilla.github.io/) | [Sta. Clara, Salve](https://vhiel18.github.io/) |
+| [Villa, Cheenee Amory](https://cheeneevilla.github.io/) | [Sta. Clara, Salve](https://vhiel18.github.io/)<sup>`ok`</sup> |
 
 ### Campion
 
@@ -63,7 +63,7 @@
 |---------|---------|
 | Abejero, Justin Julian | Arroyo, Chryssa Dianne |
 | [Abiog, Glerdanielle](https://glergahh.github.io/)<sup>`edit`</sup> | [Castañeda, Eonna Francesca](https://eonnna.github.io/)<sup>`ok`</sup> |
-| [Agapito, Ronin](https://ron1nn.github.io/)<sup>`ok`</sup> | [Cello, Denisse Ann](https://denicann.github.io/)<sup>`edit`</sup> |
+| [Agapito, Ronin](https://ron1nn.github.io/)<sup>`ok`</sup> | [Cello, Denisse Ann](https://denicann.github.io/)<sup>`ok`</sup> |
 | [Ardeña, Anthony John](https://aja07.github.io/)<sup>`ok`</sup> | [Delaon, Dashiell Matthew](https://daassshhh.github.io/Daassshhhgithub.com/)<sup>`ok`</sup> |
 | Avila, Ethan Rommel | [Elecanal, Marie Hannah Emanuelle](https://mariehannah.github.io/)<sup>`ok`</sup> |
 | Belmonte, Rica Mae | Gaite, Juliana Lyenne |
@@ -75,7 +75,7 @@
 | [Dy, Elyana Marie](https://yanie-uwu.github.io/Yanie-uwu/)<sup>`ok`</sup> | [Neola, Rayden](https://rayynnnn.github.io/)<sup>`ok`</sup> |
 | [Francia, Trisha Arwen](https://github.com/treshyy)<sup>`error`</sup> | [Parco, Sean Bradley](https://parc0.github.io/Coparc.github.io/)<sup>`ok`</sup> |
 | [Fullante, Lance Victor](https://sioptimum-pride.github.io/Classified-Docs/)<sup>`ok`</sup> | Ruizo, Rikka Marie Thea |
-| Llanza, Patricia Dinesi | [Salcedo, Hannah](https://aespaghetti.github.io/) |
+| Llanza, Patricia Dinesi | [Salcedo, Hannah](https://aespaghetti.github.io/)<sup>`ok`</sup> |
 | [Otao, Edsel Mark Adam](https://happiboy.github.io/) | San Andres, Wilhelm III |
 | [Panliboton, Francesca Michaela](https://nejiiiii.github.io/)<sup>`ok`</sup> | Seva, Dandee |
 | [Saraspi, Kiera Kristoff](https://476kk.github.io/467kk.github.io/) | [Sevilla, Maria Consuelo](https://c0nsuel0.github.io/c0nsuelo.github.io/)<sup>`ok`</sup> |
@@ -102,7 +102,7 @@
 | Ibasco, Kyle Dan | [Mota, Ma. Bernadette](https://ma-badeth.github.io/)<sup>`ok`</sup> |
 | Llorin, Thomas John | [Olitoquit, Harry](https://github.com/h4rrybanana/harryolitokitzz.github.io/blob/0e377e0595e0ca39be5848838fef624f6e132c96/index.md)<sup>`error`</sup> |
 | Medrano, Lorenzo Yani | [Peña, Aliyah Mari](http://32115000.github.io/)<sup>`ok`</sup> |
-| [Morales, Ava Francesca](https://afsales.github.io/Afsales.github/)<sup>`ok`</sup> | [Rosanes, Gian Miguel](https://gmrosanes.github.io/) |
+| [Morales, Ava Francesca](https://afsales.github.io/Afsales.github/)<sup>`ok`</sup> | [Rosanes, Gian Miguel](https://gmrosanes.github.io/)<sup>`edit`</sup> |
 | [Remot, Ronald Joseph Ymmanoel](https://rjymmanoel.github.io/)<sup>`ok`</sup> | [Santiago, Margarette](https://margasntg.github.io/)<sup>`ok`</sup> |
 | [Sesgundo, Jaime Chikko](https://JCSes.github.io/)<sup>`ok`</sup> | [Tan, Madisson Tyler](https://gitan-hub.github.io/)<sup>`ok`</sup> |
 | Solares, Darena Jeslyn | Verdadero, Josef Benjamin |
