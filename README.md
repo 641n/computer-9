@@ -91,7 +91,7 @@
 | Belleza, Alfonso Benedict | Cabaña, Juan Rico Martin |
 | Brazan, David John | Carpo, Renz Donn |
 | [Buenaflor, Niña](https://yyynaa.github.io/)<sup>`error`</sup> | [Dait, Francezka Gabrielle](https://fr1nce.github.io/)<sup>`ok`</sup> |
-| [Caday, Gabriel Judel](https://gabrielcaday.github.io/gjcadayinfo/)<sup>`ok`</sup> | Daza, Leigh Francesca |
+| [Caday, Gabriel Judel](https://gabrielcaday.github.io/gjcadayinfo/)<sup>`ok`</sup> | [Daza, Leigh Francesca](https://lfdaza.github.io/IamLeighD/#)<sup>`ok`</sup> |
 | [Carilimdiliman, Jeremy Liam](https://jlkarim.github.io/) | [De La Rosa, Shen Keziah](https://shnndlr.github.io/)<sup>`ok`</sup> |
 | [Celso, Gabrielle Mae](https://gmcel.github.io/gmcel-github.io/)<sup>`ok`</sup> | Glipo, Katrice Riyanne |
 | [Esteves, Janel](https://jaene12.github.io/)<sup>`ok`</sup> | [Gutierrez, Andrea](https://andreanpg.github.io/) |
