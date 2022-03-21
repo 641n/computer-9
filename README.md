@@ -44,8 +44,8 @@
 | [Hernandez, Luis Iñigo](https://inigo101.github.io/inigo101/)<sup>`ok`</sup> | [Gloriani, Kyle Emanuelle](https://ky73d147.github.io/Recruitment-Hub/)<sup>`ok`</sup> |
 | [Ibarreta, Jenieva](https://i43yuna.github.io/)<sup>`ok`</sup> | [Hinagpis, Mark Vincent](https://mrk-hinagpis.github.io/MRK-HINAGPIS/) |
 | [Manalang, Kryselle Anne](https://kaileebelz.github.io/kwonk4i.github.io/)<sup>`ok`</sup> | [Joson, Rae Frances](https://raejoson.github.io/)<sup>`ok`</sup> |
-| [Negro, Kenshin Reema](https://ripknshn.github.io/) | Lanzuela, Neil Gabriel |
-| Oira, Ken Aurther Milek | Mandanas, Miguel Alfred |
+| [Negro, Kenshin Reema](https://ripknshn.github.io/) | Lanzuela, Neil Gabriel<sup>`error`</sup> |
+| Oira, Ken Aurther Milek | [Mandanas, Miguel Alfred](https://miguel-mandanas.github.io/miggytozaki.github.io/)<sup>`ok`</sup> |
 | [Oloya, Amber Colleen](https://am-collee.github.io/)<sup>`ok`</sup> | [Moreno, Clint Russel](https://clintmoreno.github.io/Egg/)<sup>`ok`</sup> |
 | [Paglinawan, Mathew Jerard](https://mjuwu.github.io/)<sup>`ok`</sup> | [Nacario, Melchor](https://nacario.github.io/641ngithub.com/)<sup>`ok`</sup> |
 | [Rivera, Nathan Hendrik](https://lezzgotan.github.io/) | [Nicolas, Andrea Trish](https://dreanicls.github.io/Andrea-s-Asian-Drama-Watchlist-kit/)<sup>`ok`</sup> |
