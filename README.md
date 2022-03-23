@@ -25,7 +25,7 @@
 | [Pandes, Claudia Myrdith](https://diasednap.github.io/laurel/)<sup>`ok`</sup> | [Rosari, Charly III](https://cqthirdy824.github.io/brebeuf-b/)<sup>`ok`</sup> |
 | [Posugac, John Angelo](https://tom-atoo.github.io/)<sup>`ok`</sup> | [Rubi, Leander Jay](https://leanderjgr.github.io/)<sup>`ok`</sup> |
 | [Rubio, Jose Iñigo](http://ni60145.github.io/)<sup>`ok`</sup> | [Shaikh, Ali](https://riku462.github.io/)<sup>`ok`</sup> |
-| [Villa, Cheenee Amory](https://cheeneevilla.github.io/) | [Sta. Clara, Salve](https://vhiel18.github.io/)<sup>`ok`</sup> |
+| [Villa, Cheenee Amory](https://cheeneevilla.github.io/)<sup>`ok`</sup> | [Sta. Clara, Salve](https://vhiel18.github.io/)<sup>`ok`</sup> |
 
 ### Campion
 
@@ -49,13 +49,13 @@
 | [Oloya, Amber Colleen](https://am-collee.github.io/)<sup>`ok`</sup> | [Moreno, Clint Russel](https://clintmoreno.github.io/Egg/)<sup>`ok`</sup> |
 | [Paglinawan, Mathew Jerard](https://mjuwu.github.io/)<sup>`ok`</sup> | [Nacario, Melchor](https://nacario.github.io/641ngithub.com/)<sup>`ok`</sup> |
 | [Rivera, Nathan Hendrik](https://lezzgotan.github.io/) | [Nicolas, Andrea Trish](https://dreanicls.github.io/Andrea-s-Asian-Drama-Watchlist-kit/)<sup>`ok`</sup> |
-| [Sabillena, Vincent Gerard](https://v1nce72.github.io/) | [Nidea, Samuel Ivan](https://samunidea.github.io/)<sup>`ok`</sup> |
+| [Sabillena, Vincent Gerard](https://v1nce72.github.io/)<sup>`ok`</sup> | [Nidea, Samuel Ivan](https://samunidea.github.io/)<sup>`ok`</sup> |
 | [Santiago, Jabez Phire](https://amcsantiago.github.io/)<sup>`ok`</sup> | [Ornido, Robert Sebastian](http://bastyornido.github.io/)<sup>`ok`</sup> |
 | [Serranzana, Arianna Kayla](https://akreideprinz.github.io/anyaslungs/)<sup>`ok`</sup> | [Panganiban, Periel Matthew](https://matthiaspangiban.github.io/MAWInc/#)<sup>`ok`</sup> |
 | [Siangchin, Samantha](https://shamshangchuan.github.io/NieR-Automata/#)<sup>`ok`</sup> | [Perez, John Raymond Carlo](https://ijiray.github.io/)<sup>`ok`</sup> |
 | [Tatel, Armand Sergelio](https://armandtatel.github.io/) | [Santiago, Althea Mae](https://amcsantiago.github.io/)<sup>`ok`</sup> |
 | [Umali, Adriane](https://4idr74n3.github.io/)<sup>`ok`</sup> | [Simando, Dorothy Ada](https://da-arcsim.github.io/)<sup>`ok`</sup> |
-|  | [Villarin, Samantha Lurlin](http://samantha-villarin.github.io/) |
+|  | [Villarin, Samantha Lurlin](http://samantha-villarin.github.io/)<sup>`ok`</sup> |
 
 ### Chabanel
 
