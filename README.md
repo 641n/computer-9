@@ -14,14 +14,14 @@
 | Calleja, Clark Lorenz Hugh | Bardaje, Jose Gabriel |
 | [Cariño, Anthea Andrea](https://akaririn96.github.io/Akaris-website/)<sup>`edit`</sup> | [Betito, Maria Bianca Isabel](https://bncasbl.github.io/) |
 | [Cueto, Sean Marco](https://seanmarconcueto.github.io/sean/)<sup>`ok`</sup> | Biana, James Anthony |
-| [Daanoy, Karl Anthony](https://kael04.github.io/) | [Bustilla, Carmela Anne Marie](https://vcaramela.github.io/)<sup>`edit`</sup> |
-| [Florendo, Antonio Joaquin](https://lelite2150.github.io/)<sup>`edit`</sup> | [Cantor, Angel Louise](https://louiseaa.github.io/)<sup>`ok`</sup> |
+| [Daanoy, Karl Anthony](https://kael04.github.io/)<sup>`ok`</sup> | [Bustilla, Carmela Anne Marie](https://vcaramela.github.io/)<sup>`edit`</sup> |
+| [Florendo, Antonio Joaquin](https://lelite2150.github.io/)<sup>`ok`</sup> | [Cantor, Angel Louise](https://louiseaa.github.io/)<sup>`ok`</sup> |
 | [Gaite, Emma Isabela](https://uwuwukid.github.io/uwuwu.github.io/)<sup>`ok`</sup> | Guibilondo, Reece Gianray |
 | [Guadalupe, Widmarc Kymm](https://kkmymm.github.io/)<sup>`ok`</sup> | [Naval, Juan Lorenzo](https://lorenzoenzy.github.io/JuanLorenzo.github.io/)<sup>`ok`</sup> |
 | [Lozano, Ricardo IV](https://xenn06.github.io/samplexen/)<sup>`edit`</sup> | Nogales, Matthieu Harven |
 | [Maravilla, Maurois Juza](https://maurois127.github.io/Dzone/)<sup>`ok`</sup> | [Obras, Francheska](https://frakooob.github.io/)<sup>`edit`</sup> |
 | [Mayao, Leigh Micah](https://15lhs.github.io/)<sup>`ok`</sup> | Plaza, Angelica Marie |
-| [Palcon, Mark Angel](https://mmaarrk.github.io/) | [Revilla, Rex Rafael](http://rexrevre.github.io/)<sup>`ok`</sup> |
+| [Palcon, Mark Angel](https://mmaarrk.github.io/)<sup>`ok`</sup> | [Revilla, Rex Rafael](http://rexrevre.github.io/)<sup>`ok`</sup> |
 | [Pandes, Claudia Myrdith](https://diasednap.github.io/laurel/)<sup>`ok`</sup> | [Rosari, Charly III](https://cqthirdy824.github.io/brebeuf-b/)<sup>`ok`</sup> |
 | [Posugac, John Angelo](https://tom-atoo.github.io/)<sup>`ok`</sup> | [Rubi, Leander Jay](https://leanderjgr.github.io/)<sup>`ok`</sup> |
 | [Rubio, Jose Iñigo](http://ni60145.github.io/)<sup>`ok`</sup> | [Shaikh, Ali](https://riku462.github.io/)<sup>`ok`</sup> |
