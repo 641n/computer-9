@@ -6,18 +6,18 @@
 
 | Group A | Group B | 
 |---------|---------|
-| Armendi, Karl Jerome | [Abellada, John Myko](https://gudmornin.github.io/)<sup>`ok`</sup> |
-| [Avenido, Jarrel Joseph](https://ja-rr.github.io/Tenku/) | Albero, Gwen Erin |
+| [Armendi, Karl Jerome](https://jekjekarmendi.github.io/)<sup>`ok`</sup> | [Abellada, John Myko](https://gudmornin.github.io/)<sup>`ok`</sup> |
+| [Avenido, Jarrel Joseph](https://ja-rr.github.io/Tenku/) | [Albero, Gwen Erin](https://gwerinuwu4613.github.io/Gwen.github.io/)<sup>`ok`</sup> |
 | Bongat, Dorothy Jean | [Albeus, Rex Gabriel](https://aurumgd.github.io/Gold.github.io/) |
-| [Borbor, Carla Marie](https://github.com/nerfgone)<sup>`ok`</sup> | Ayao, Ma. Jem Suzaine |
+| [Borbor, Carla Marie](https://github.com/nerfgone)<sup>`ok`</sup> | [Ayao, Ma. Jem Suzaine](https://mjxxmie.github.io/)<sup>`ok`</sup> |
 | Cabrera, Kathleen Chloe | [Ayo, Alyanna Gabrielle](https://choccymilkue.github.io/choccymilkue/)<sup>`edit`</sup> |
 | Calleja, Clark Lorenz Hugh | Bardaje, Jose Gabriel |
 | [Cariño, Anthea Andrea](https://akaririn96.github.io/Akaris-website/)<sup>`edit`</sup> | [Betito, Maria Bianca Isabel](https://bncasbl.github.io/) |
 | [Cueto, Sean Marco](https://seanmarconcueto.github.io/sean/)<sup>`ok`</sup> | Biana, James Anthony |
-| [Daanoy, Karl Anthony](https://kael04.github.io/) | Bustilla, Carmela Anne Marie |
+| [Daanoy, Karl Anthony](https://kael04.github.io/) | [Bustilla, Carmela Anne Marie](https://vcaramela.github.io/)<sup>`edit`</sup> |
 | [Florendo, Antonio Joaquin](https://lelite2150.github.io/)<sup>`edit`</sup> | [Cantor, Angel Louise](https://louiseaa.github.io/)<sup>`ok`</sup> |
 | [Gaite, Emma Isabela](https://uwuwukid.github.io/uwuwu.github.io/)<sup>`ok`</sup> | Guibilondo, Reece Gianray |
-| [Guadalupe, Widmarc Kymm](https://kkmymm.github.io/)<sup>`ok`</sup> | Naval, Juan Lorenzo |
+| [Guadalupe, Widmarc Kymm](https://kkmymm.github.io/)<sup>`ok`</sup> | [Naval, Juan Lorenzo](https://lorenzoenzy.github.io/JuanLorenzo.github.io/)<sup>`ok`</sup> |
 | [Lozano, Ricardo IV](https://xenn06.github.io/samplexen/)<sup>`edit`</sup> | Nogales, Matthieu Harven |
 | [Maravilla, Maurois Juza](https://maurois127.github.io/Dzone/)<sup>`ok`</sup> | [Obras, Francheska](https://frakooob.github.io/)<sup>`edit`</sup> |
 | [Mayao, Leigh Micah](https://15lhs.github.io/)<sup>`ok`</sup> | Plaza, Angelica Marie |
