@@ -66,7 +66,7 @@
 | [Agapito, Ronin](https://ron1nn.github.io/)<sup>`ok`</sup> | [Cello, Denisse Ann](https://denicann.github.io/)<sup>`ok`</sup> |
 | [Ardeña, Anthony John](https://aja07.github.io/)<sup>`ok`</sup> | [Delaon, Dashiell Matthew](https://daassshhh.github.io/Daassshhhgithub.com/)<sup>`ok`</sup> |
 | Avila, Ethan Rommel | [Elecanal, Marie Hannah Emanuelle](https://mariehannah.github.io/)<sup>`ok`</sup> |
-| Belmonte, Rica Mae | Gaite, Juliana Lyenne |
+| [Belmonte, Rica Mae](https://rgaor.github.io/rGaorica.github.io/)<sup>`ok`</sup> | Gaite, Juliana Lyenne |
 | [Beltran, Niño Anthony](https://ninslg2.github.io/) | [Jocom, Shawn Israel](https://shawn-israel.github.io/) |
 | [Bico, Christine Abigail](https://dumplingss00.github.io/dumplingss00/)<sup>`ok`</sup> | [Lanuza, Priard Denver](https://banbbb.github.io/bannbbb.github.io/)<sup>`ok`</sup> |
 | [Casilihan, Nathan Xander](https://nathanowo.github.io/)<sup>`ok`</sup> | [Mandasoc, Kenneth Kendrick](https://c0fee.github.io/)<sup>`ok`</sup> |
