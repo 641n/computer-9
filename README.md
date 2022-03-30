@@ -70,7 +70,7 @@
 | [Beltran, Niño Anthony](https://ninslg2.github.io/) | [Jocom, Shawn Israel](https://shawn-israel.github.io/) |
 | [Bico, Christine Abigail](https://dumplingss00.github.io/dumplingss00/)<sup>`ok`</sup> | [Lanuza, Priard Denver](https://banbbb.github.io/bannbbb.github.io/)<sup>`ok`</sup> |
 | [Casilihan, Nathan Xander](https://nathanowo.github.io/)<sup>`ok`</sup> | [Mandasoc, Kenneth Kendrick](https://c0fee.github.io/)<sup>`ok`</sup> |
-| [De Vera, Francis Russel](https://francisdevera2007.github.io/)<sup>`ok`</sup> | [Medrano, Lianna Marie](https://li4nn4.github.io/) |
+| [De Vera, Francis Russel](https://francisdevera2007.github.io/)<sup>`ok`</sup> | [Medrano, Lianna Marie](https://li4nn4.github.io/)<sup>`ok`</sup> |
 | [Dichoso, Kimbhie Hannah](https://averagestudent3.github.io/)<sup>`ok`</sup> | [Mendoza, John Kerby](https://john-kerby.github.io/)<sup>`ok`</sup> |
 | [Dy, Elyana Marie](https://yanie-uwu.github.io/Yanie-uwu/)<sup>`ok`</sup> | [Neola, Rayden](https://rayynnnn.github.io/)<sup>`ok`</sup> |
 | [Francia, Trisha Arwen](https://github.com/treshyy)<sup>`error`</sup> | [Parco, Sean Bradley](https://parc0.github.io/Coparc.github.io/)<sup>`ok`</sup> |
