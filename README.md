@@ -89,24 +89,24 @@
 |---------|---------|
 | Advincula, Reine Mikkel | [Alden, Clark Joacquin](https://clarkjoacquin.github.io/ClarkJoacquin-github.io/) |
 | Baylon, Aizeah | [Arenillo, Louis Kristian](http://lou1s69.github.io/) |
-| Belleza, Alfonso Benedict | Cabaña, Juan Rico Martin |
-| Brazan, David John | Carpo, Renz Donn |
+| Belleza, Alfonso Benedict | [Cabaña, Juan Rico Martin]() |
+| Brazan, David John | [Carpo, Renz Donn](https://yurithewinner.github.io/)<sup>`ok`</sup> |
 | [Buenaflor, Niña](https://yyynaa.github.io/)<sup>`error`</sup> | [Dait, Francezka Gabrielle](https://fr1nce.github.io/)<sup>`ok`</sup> |
 | [Caday, Gabriel Judel](https://gabrielcaday.github.io/gjcadayinfo/)<sup>`ok`</sup> | [Daza, Leigh Francesca](https://lfdaza.github.io/IamLeighD/#)<sup>`ok`</sup> |
 | [Carilimdiliman, Jeremy Liam](https://jlkarim.github.io/)<sup>`ok`</sup> | [De La Rosa, Shen Keziah](https://shnndlr.github.io/)<sup>`ok`</sup> |
-| [Celso, Gabrielle Mae](https://gmcel.github.io/gmcel-github.io/)<sup>`ok`</sup> | Glipo, Katrice Riyanne |
+| [Celso, Gabrielle Mae](https://gmcel.github.io/gmcel-github.io/)<sup>`ok`</sup> | [Glipo, Katrice Riyanne](https://k4tr1c3.github.io/) |
 | [Esteves, Janel](https://jaene12.github.io/)<sup>`ok`</sup> | [Gutierrez, Andrea](https://andreanpg.github.io/) |
 | [Estrada, Lara Mhadelle](https://eskeshiri.github.io/)<sup>`ok`</sup> | [Javier, Venice](https://jvvenice.github.io/jvvenice/)<sup>`ok`</sup> |
 | [Estravila, Jeanin Lestat](https://jlestravila.github.io/) | [Medenilla, Christian Daniel](http://cydros.github.io/)<sup>`ok`</sup> |
 | [Guevarra, Alexey Andrea](https://alguevarra.github.io/) | [Menes, Chandleo William](https://8-ball-pool.github.io/)<sup>`ok`</sup> |
-| Ibasco, Kyle Dan | [Mota, Ma. Bernadette](https://ma-badeth.github.io/)<sup>`ok`</sup> |
+| [Ibasco, Kyle Dan](https://github.com/Kdibasco/KDIrcguy.github.io)<sup>`empty`</sup> | [Mota, Ma. Bernadette](https://ma-badeth.github.io/)<sup>`ok`</sup> |
 | Llorin, Thomas John | [Olitoquit, Harry](https://github.com/h4rrybanana/harryolitokitzz.github.io/blob/0e377e0595e0ca39be5848838fef624f6e132c96/index.md)<sup>`error`</sup> |
 | Medrano, Lorenzo Yani | [Peña, Aliyah Mari](http://32115000.github.io/)<sup>`ok`</sup> |
 | [Morales, Ava Francesca](https://afsales.github.io/Afsales.github/)<sup>`ok`</sup> | [Rosanes, Gian Miguel](https://gmrosanes.github.io/)<sup>`edit`</sup> |
 | [Remot, Ronald Joseph Ymmanoel](https://rjymmanoel.github.io/)<sup>`ok`</sup> | [Santiago, Margarette](https://margasntg.github.io/)<sup>`ok`</sup> |
 | [Sesgundo, Jaime Chikko](https://JCSes.github.io/)<sup>`ok`</sup> | [Tan, Madisson Tyler](https://gitan-hub.github.io/)<sup>`ok`</sup> |
-| Solares, Darena Jeslyn | Verdadero, Josef Benjamin |
-| [Volante, Ghieann Ashley](https://yelshagavie.github.io/) | Villacruz, Jerry Joseph |
+| Solares, Darena Jeslyn | [Verdadero, Josef Benjamin](https://verdz9.github.io/)<sup>`ok`</sup> |
+| [Volante, Ghieann Ashley](https://yelshagavie.github.io/) | [Villacruz, Jerry Joseph](https://jjrvillacruz.github.io/JJrVillacruZ/) |
 
 
 ### Links
