@@ -110,6 +110,32 @@
 | Solares, Darena Jeslyn | [Verdadero, Josef Benjamin](https://verdz9.github.io/)<sup>`ok`</sup> |
 | [Volante, Ghieann Ashley](https://yelshagavie.github.io/) | [Villacruz, Jerry Joseph](https://jjrvillacruz.github.io/JJrVillacruZ/) |
 
+# CYCLE 2 Group
+
+### Ogilvie
+
+| Group A | Group B | 
+|---------|---------|
+| Abaring, Jit Kenji | Ababan, Glenn |
+| Alegre, Mary Francine | Abion, Abby Rich |
+| Ayo, Reuben Ignacio | Abonita, Chelsy Rania |
+| Badiola, Ethan Carlos | Antonio, Mary Noelle Pauline |
+| Barbosa, Gian Paolo | Austria, Angel Ann Marie |
+| Bautista, Julius Andrei | Bumalay, Denise Angel |
+| Coner, Joshua | Canlas, Myra Franzmine |
+| Driz, Nica Frances | De Leon, Charina Marielle Anne |
+| Duran, Amadahy Patrice | Garcia, Joseph Ronaldo |
+| Eledia, Jazzel Joy | Gonzales, Ramon Xavier |
+| Galicia, Roman Julius | Lavilla, Apollo Raven |
+| Gaminde, Glenn Marq | Maranan, Mon Michael |
+| Israel, Abigail Carol | Martin, John Denver |
+| Lumbao, Monic Sophitia | Naldoza, Chris Dwayne |
+| Masuhay, Marc Daverick | Reazon, Joaquin Benedict |
+| Pili, Lourdes Jean | Silerio, Francis Xavier |
+| Rebusquillo, Danielle Marie | Sotto, Leila |
+| Salgado, Aaron Jesse Emmanuel | Teves, Brad Craven |
+| San Pascual, Bryce Andrei | Viola, Paul Edward |
+| Villanueva, Sophia Francine | Zabaldica, Moira Angela |
 
 ### Links
 
