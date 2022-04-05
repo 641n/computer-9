@@ -29,6 +29,38 @@
 | Sarines, Carl Wayne | Valencia, Josh Exequiel
 | Segarra, Carmelo Gene | |
 
+### Bobola
+
+| Group A | Group B | 
+|---------|---------|
+| Agravante, Dhan Juzly | Abawag, Angel Valerie
+| Arquiza, Princess Leonor | Amaro, Rollie
+| Azuela, Andrei | Bobos, John David
+| Barillo, Jaspher | Bolivar, Paula Helena
+| Capistrano, Jacob | Borja, Reenata Jeanette
+| Caro, Freens Kairo | Daiz, Jacob Ezekiel
+| Cea, Hannah Chaeli | Delas Llagas, King Merlot
+| Custodio, Marae Alaine | King, Henry Louise
+| Del Castillo, Josh Christan Donn | Latosa, Amiel
+| Diño, Antonia Teresa Ignacia | Llorin, Primo Maximus
+| Edoria, Sandrene | Navarro, Hero Shaquille
+| Guzman, Irish Denise | Oronan, Denise Gabrielle
+| Laquindanum, Leuanne Fraze | Posugac, Francesca Nicole
+| Lleno, Lauren Angeli | Ragasa, Nathan Riley
+| Murillo, Vishnu | Ricafort, Zynne Louise
+| Orense, Xavier Alexander | Rivera, Ethanael
+| Solares, Jaime Sebastian | Rosero, Mercel Isabel
+| Sotaso, Sofia Gabrielle | Solares, Francesca Chloe
+| Sotto, Niño Jose | Soreta, Glenn
+| Sto. Domingo, Hannah Denise | Tipones, Alyssandra Nicole
+
+### Goupil
+
+| Group A | Group B | 
+|---------|---------|
+
+
+
 ### Ogilvie
 
 | Group A | Group B | 
