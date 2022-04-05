@@ -42,7 +42,7 @@
 | Cea, Hannah Chaeli | [Delas Llagas, King Merlot](https://kingmerlot.github.io/)<sup>`ok`</sup> | 
 | Custodio, Marae Alaine | King, Henry Louise | 
 | Del Castillo, Josh Christan Donn | [Latosa, Amiel](https://0kie0k.github.io/) | 
-| Diño, Antonia Teresa Ignacia | [Llorin, Primo Maximus](https://naevis12.github.io/)<sup>`ok`</sup> | 
+| Diño, Antonia Teresa Ignacia | [Llorin, Primo Maximus](https://naevis12.github.io/) | 
 | Edoria, Sandrene | [Navarro, Hero Shaquille](https://tantantini4u.github.io/)<sup>`ok`</sup> | 
 | Guzman, Irish Denise | Oronan, Denise Gabrielle | 
 | Laquindanum, Leuanne Fraze | Posugac, Francesca Nicole | 
