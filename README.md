@@ -8,51 +8,51 @@
 
 | Group A | Group B | 
 |---------|---------|
-| Abonal, Sophia Lorraine | Agravante, Kent Michael
-| Abragan, Anton Lorenzo | Cuevas, Marimelle Ashley
-| Agapay, Ric Benedict | Dulce, Julio Leigh Pio
-| Arines, Sophia Kim | Enguero, Al Joaquin
-| Azuela, ALEXANDREI | Gangcuangco, Jecris Lorenzo
-| Azur, Elisha | Garcia, Edward Jay
-| Baldonasa, Renz Gabriel | Latumbo, Juanna Antonia
-| Bolalin, Kyle Rayne | Lu, Zap Airam
-| Demesa, John Oriele | Magnaye, Khalil Nishtar
-| Dulay, Venice Georgina | Malanyaon, Samantha Sky
-| Encila, Nicole | Mariano, Helaena Davidica
-| Estavillo, Nate Bastian | Rey, Mary Johnlyn
-| Marco, Mary Immaculate Concepcion | San Lorenzo, Karl Aleci
-| Masangkay, Jillianne Marie | Sol, Emerald
-| Navarro, Vinz Aaron | Sto. Domingo, Ivan
-| Rey, Arielle Jemilene | Tacorda, Chloe Anne
-| Rivera, Hannah Kelly | Teope, Gian Ma. Sophia
-| Sandia, Zach Jullian | Tordilla, Jhelei Ann
-| Sarines, Carl Wayne | Valencia, Josh Exequiel
+| [Abonal, Sophia Lorraine](https://piaabonal.github.io/PhiaAbonal.github.io/)<sup>`ok`</sup> | Agravante, Kent Michael | 
+| Abragan, Anton Lorenzo | Cuevas, Marimelle Ashley | 
+| Agapay, Ric Benedict | Dulce, Julio Leigh Pio | 
+| Arines, Sophia Kim | Enguero, Al Joaquin | 
+| Azuela, ALEXANDREI | [Gangcuangco, Jecris Lorenzo](https://jecr1s.github.io/Jecr1ss.github.io/) | 
+| Azur, Elisha | Garcia, Edward Jay | 
+| Baldonasa, Renz Gabriel | Latumbo, Juanna Antonia | 
+| Bolalin, Kyle Rayne | Lu, Zap Airam | 
+| Demesa, John Oriele | [Magnaye, Khalil Nishtar](https://katharsizs.github.io/) | 
+| Dulay, Venice Georgina | Malanyaon, Samantha Sky | 
+| Encila, Nicole | [Mariano, Helaena Davidica](https://laenamariano.github.io/EnaMariano.github.io/)<sup>`edit`</sup> | 
+| Estavillo, Nate Bastian | Rey, Mary Johnlyn | 
+| Marco, Mary Immaculate Concepcion | San Lorenzo, Karl Aleci | 
+| Masangkay, Jillianne Marie | [Sol, Emerald](https://arindelle13.github.io/) | 
+| Navarro, Vinz Aaron | [Sto. Domingo, Ivan](https://ivanrstodomingo.github.io/)<sup>`ok`</sup> | 
+| [Rey, Arielle Jemilene](https://arindelle13.github.io/)<sup>`ok`</ok> | Tacorda, Chloe Anne | 
+| Rivera, Hannah Kelly | Teope, Gian Ma. Sophia | 
+| Sandia, Zach Jullian | [Tordilla, Jhelei Ann](https://jjellyjellyj.github.io/) | 
+| Sarines, Carl Wayne | Valencia, Josh Exequiel | 
 | Segarra, Carmelo Gene | |
 
 ### Bobola
 
 | Group A | Group B | 
 |---------|---------|
-| Agravante, Dhan Juzly | Abawag, Angel Valerie
-| Arquiza, Princess Leonor | Amaro, Rollie
-| Azuela, Andrei | Bobos, John David
-| Barillo, Jaspher | Bolivar, Paula Helena
-| Capistrano, Jacob | Borja, Reenata Jeanette
-| Caro, Freens Kairo | Daiz, Jacob Ezekiel
-| Cea, Hannah Chaeli | Delas Llagas, King Merlot
-| Custodio, Marae Alaine | King, Henry Louise
-| Del Castillo, Josh Christan Donn | Latosa, Amiel
-| Diño, Antonia Teresa Ignacia | Llorin, Primo Maximus
-| Edoria, Sandrene | Navarro, Hero Shaquille
-| Guzman, Irish Denise | Oronan, Denise Gabrielle
-| Laquindanum, Leuanne Fraze | Posugac, Francesca Nicole
-| Lleno, Lauren Angeli | Ragasa, Nathan Riley
-| Murillo, Vishnu | Ricafort, Zynne Louise
-| Orense, Xavier Alexander | Rivera, Ethanael
-| Solares, Jaime Sebastian | Rosero, Mercel Isabel
-| Sotaso, Sofia Gabrielle | Solares, Francesca Chloe
-| Sotto, Niño Jose | Soreta, Glenn
-| Sto. Domingo, Hannah Denise | Tipones, Alyssandra Nicole
+| Agravante, Dhan Juzly | Abawag, Angel Valerie | 
+| Arquiza, Princess Leonor | Amaro, Rollie | 
+| Azuela, Andrei | Bobos, John David | 
+| Barillo, Jaspher | Bolivar, Paula Helena | 
+| Capistrano, Jacob | Borja, Reenata Jeanette | 
+| Caro, Freens Kairo | Daiz, Jacob Ezekiel | 
+| Cea, Hannah Chaeli | Delas Llagas, King Merlot | 
+| Custodio, Marae Alaine | King, Henry Louise | 
+| Del Castillo, Josh Christan Donn | Latosa, Amiel | 
+| Diño, Antonia Teresa Ignacia | Llorin, Primo Maximus | 
+| Edoria, Sandrene | Navarro, Hero Shaquille | 
+| Guzman, Irish Denise | Oronan, Denise Gabrielle | 
+| Laquindanum, Leuanne Fraze | Posugac, Francesca Nicole | 
+| Lleno, Lauren Angeli | Ragasa, Nathan Riley | 
+| Murillo, Vishnu | Ricafort, Zynne Louise | 
+| Orense, Xavier Alexander | Rivera, Ethanael | 
+| Solares, Jaime Sebastian | Rosero, Mercel Isabel | 
+| Sotaso, Sofia Gabrielle | Solares, Francesca Chloe | 
+| Sotto, Niño Jose | Soreta, Glenn | 
+| Sto. Domingo, Hannah Denise | Tipones, Alyssandra Nicole | 
 
 ### Goupil
 
