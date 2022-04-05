@@ -21,7 +21,7 @@
 | [Encila, Nicole](https://nicxiedust.github.io/nicxiedust.github.io-/)<sup>`ok`</sup> | [Mariano, Helaena Davidica](https://laenamariano.github.io/EnaMariano.github.io/)<sup>`edit`</sup> | 
 | Estavillo, Nate Bastian | Rey, Mary Johnlyn | 
 | Marco, Mary Immaculate Concepcion | San Lorenzo, Karl Aleci | 
-| Masangkay, Jillianne Marie | [Sol, Emerald](https://arindelle13.github.io/) | 
+| Masangkay, Jillianne Marie | [Sol, Emerald](https://emeraldzsj.github.io/) | 
 | Navarro, Vinz Aaron | [Sto. Domingo, Ivan](https://ivanrstodomingo.github.io/)<sup>`ok`</sup> | 
 | [Rey, Arielle Jemilene](https://arindelle13.github.io/)<sup>`ok`</sup> | Tacorda, Chloe Anne | 
 | [Rivera, Hannah Kelly](https://h-rivera22.github.io/h-rivera22/)<sup>`ok`</sup> | Teope, Gian Ma. Sophia | 
