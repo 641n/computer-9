@@ -23,7 +23,7 @@
 | Marco, Mary Immaculate Concepcion | San Lorenzo, Karl Aleci | 
 | Masangkay, Jillianne Marie | [Sol, Emerald](https://arindelle13.github.io/) | 
 | Navarro, Vinz Aaron | [Sto. Domingo, Ivan](https://ivanrstodomingo.github.io/)<sup>`ok`</sup> | 
-| [Rey, Arielle Jemilene](https://arindelle13.github.io/)<sup>`ok`</ok> | Tacorda, Chloe Anne | 
+| [Rey, Arielle Jemilene](https://arindelle13.github.io/)<sup>`ok`</sup> | Tacorda, Chloe Anne | 
 | Rivera, Hannah Kelly | Teope, Gian Ma. Sophia | 
 | Sandia, Zach Jullian | [Tordilla, Jhelei Ann](https://jjellyjellyj.github.io/) | 
 | Sarines, Carl Wayne | Valencia, Josh Exequiel | 
