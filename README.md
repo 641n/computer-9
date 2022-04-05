@@ -69,7 +69,7 @@
 | Garcia, Mariella | Hidalgo, Keandre Sam |
 | Gonzaga, Monica Fritz | Julia, Vince Ray |
 | [Jeremillos, Prince Godfrey](https://pg1407.github.io/) | Lim, Maria Isabel |
-| Loberiza, Isah Franzea | [Maruyama, Miyuki](https://mimimimiyuki.github.io/mimimimiyuki/) |
+| Loberiza, Isah Franzea | [Maruyama, Miyuki](https://mimimimiyuki.github.io/mimimimiyuki/)<sup>`ok`</sup> |
 | Magayanes, Marlo Joseph | Nielbock, Ian Daryl Klaus |
 | Millares, Ryan Joseph | Noble, Lilyan Rechiele |
 | Miyahira, Ainee Flynn | Pepino, Nigel Benedict |
