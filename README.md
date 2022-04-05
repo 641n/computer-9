@@ -39,17 +39,17 @@
 | Barillo, Jaspher | Bolivar, Paula Helena | 
 | Capistrano, Jacob | Borja, Reenata Jeanette | 
 | Caro, Freens Kairo | Daiz, Jacob Ezekiel | 
-| Cea, Hannah Chaeli | Delas Llagas, King Merlot | 
+| Cea, Hannah Chaeli | [Delas Llagas, King Merlot](https://kingmerlot.github.io/)<sup>`ok`</sup> | 
 | Custodio, Marae Alaine | King, Henry Louise | 
 | Del Castillo, Josh Christan Donn | [Latosa, Amiel](https://0kie0k.github.io/) | 
-| Diño, Antonia Teresa Ignacia | Llorin, Primo Maximus | 
-| Edoria, Sandrene | Navarro, Hero Shaquille | 
+| Diño, Antonia Teresa Ignacia | [Llorin, Primo Maximus](https://naevis12.github.io/)<sup>`ok`</sup> | 
+| Edoria, Sandrene | [Navarro, Hero Shaquille](https://tantantini4u.github.io/)<sup>`ok`</sup> | 
 | Guzman, Irish Denise | Oronan, Denise Gabrielle | 
 | Laquindanum, Leuanne Fraze | Posugac, Francesca Nicole | 
 | Lleno, Lauren Angeli | Ragasa, Nathan Riley | 
 | Murillo, Vishnu | Ricafort, Zynne Louise | 
 | Orense, Xavier Alexander | Rivera, Ethanael | 
-| Solares, Jaime Sebastian | Rosero, Mercel Isabel | 
+| Solares, Jaime Sebastian | [Rosero, Mercel Isabel](https://mercelisabelrosero.github.io/) | 
 | Sotaso, Sofia Gabrielle | Solares, Francesca Chloe | 
 | Sotto, Niño Jose | Soreta, Glenn | 
 | Sto. Domingo, Hannah Denise | Tipones, Alyssandra Nicole | 
