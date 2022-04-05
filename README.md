@@ -18,13 +18,13 @@
 | Bolalin, Kyle Rayne | Lu, Zap Airam | 
 | Demesa, John Oriele | [Magnaye, Khalil Nishtar](https://katharsizs.github.io/) | 
 | Dulay, Venice Georgina | Malanyaon, Samantha Sky | 
-| Encila, Nicole | [Mariano, Helaena Davidica](https://laenamariano.github.io/EnaMariano.github.io/)<sup>`edit`</sup> | 
+| [Encila, Nicole](https://nicxiedust.github.io/nicxiedust.github.io-/)<sup>`ok`</sup> | [Mariano, Helaena Davidica](https://laenamariano.github.io/EnaMariano.github.io/)<sup>`edit`</sup> | 
 | Estavillo, Nate Bastian | Rey, Mary Johnlyn | 
 | Marco, Mary Immaculate Concepcion | San Lorenzo, Karl Aleci | 
 | Masangkay, Jillianne Marie | [Sol, Emerald](https://arindelle13.github.io/) | 
 | Navarro, Vinz Aaron | [Sto. Domingo, Ivan](https://ivanrstodomingo.github.io/)<sup>`ok`</sup> | 
 | [Rey, Arielle Jemilene](https://arindelle13.github.io/)<sup>`ok`</sup> | Tacorda, Chloe Anne | 
-| Rivera, Hannah Kelly | Teope, Gian Ma. Sophia | 
+| [Rivera, Hannah Kelly](https://h-rivera22.github.io/h-rivera22/)<sup>`ok`</sup> | Teope, Gian Ma. Sophia | 
 | Sandia, Zach Jullian | [Tordilla, Jhelei Ann](https://jjellyjellyj.github.io/) | 
 | Sarines, Carl Wayne | Valencia, Josh Exequiel | 
 | Segarra, Carmelo Gene | |
