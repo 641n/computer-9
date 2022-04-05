@@ -87,14 +87,14 @@
 | Abaring, Jit Kenji | Ababan, Glenn |
 | [Alegre, Mary Francine](https://csaykaman.github.io/) | Abion, Abby Rich |
 | Ayo, Reuben Ignacio | [Abonita, Chelsy Rania](https://a-chelss.github.io/) |
-| Badiola, Ethan Carlos | Antonio, Mary Noelle Pauline |
+| Badiola, Ethan Carlos | [Antonio, Mary Noelle Pauline](https://iammpiaaa.github.io/) |
 | Barbosa, Gian Paolo | Austria, Angel Ann Marie |
 | Bautista, Julius Andrei | [Bumalay, Denise Angel](https://enhasparcel.github.io/) |
 | Coner, Joshua | Canlas, Myra Franzmine |
 | Driz, Nica Frances | [De Leon, Charina Marielle Anne](https://ebthako143.github.io/ebthako.github.io/) |
 | Duran, Amadahy Patrice | Garcia, Joseph Ronaldo |
 | Eledia, Jazzel Joy | [Gonzales, Ramon Xavier](https://save123456.github.io/) |
-| Galicia, Roman Julius | Lavilla, Apollo Raven |
+| Galicia, Roman Julius | [Lavilla, Apollo Raven](https://apollolavilla.github.io/Apollo/)<sup>`ok`</sup> |
 | Gaminde, Glenn Marq | Maranan, Mon Michael |
 | Israel, Abigail Carol | Martin, John Denver |
 | Lumbao, Monic Sophitia | Naldoza, Chris Dwayne |
