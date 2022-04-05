@@ -76,7 +76,7 @@
 | [Necesario, Sophia Marie](https://18141589a.github.io/) | Ramores, Sebastian |
 | Perez, Jhenard Amor | Soliman, Olen Ulysses |
 | Pramis, Malak Gottfried | [Tamaray, Jyrelle Joy](https://hatdogjo.github.io/hatdogjo1.github.io/) |
-| Quintos, Lyonn Ezekiel | [Villanueva, Glorianne](https://glvillanueva.github.io/) |
+| Quintos, Lyonn Ezekiel | [Villanueva, Glorianne](https://glvillanueva.github.io/)<sup>`ok`</sup> |
 | Sumayao, Brent Justin |  |
 | Viray, Jhan Jadiel |  |
 
