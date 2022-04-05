@@ -14,7 +14,7 @@
 | Arines, Sophia Kim | Enguero, Al Joaquin | 
 | Azuela, Alexandrei | [Gangcuangco, Jecris Lorenzo](https://jecr1s.github.io/Jecr1ss.github.io/) | 
 | Azur, Elisha | Garcia, Edward Jay | 
-| Baldonasa, Renz Gabriel | Latumbo, Juanna Antonia | 
+| Baldonasa, Renz Gabriel | [Latumbo, Juanna Antonia](https://1nnaal.github.io/) | 
 | Bolalin, Kyle Rayne | Lu, Zap Airam | 
 | Demesa, John Oriele | [Magnaye, Khalil Nishtar](https://katharsizs.github.io/) | 
 | Dulay, Venice Georgina | Malanyaon, Samantha Sky | 
