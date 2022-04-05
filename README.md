@@ -60,23 +60,23 @@
 |---------|---------|
 | Aguirre, Danielle Ann | Abrera, Yleona Marie |
 | Baider, Trish Maxine | Almazan, Shane Lendrix |
-| Ballesteros, Jairus Jan | Añonuevo, Raymond James |
-| Baquillas, Karl Michael | Bandin, Chesca Nicole |
+| [Ballesteros, Jairus Jan](https://willanderthings.github.io/)<sup>`ok`</sup> | [Añonuevo, Raymond James](https://anonuevorj.github.io/) |
+| Baquillas, Karl Michael | [Bandin, Chesca Nicole](https://chscafel.github.io/) |
 | Belleza, Von Jarren | Buenaventura, Ellyzah Rose |
 | Bio, Jienah Nicole | Camacho, Charlotte Marie |
 | Bonacua, Sean Louis | Cariaga, Christian Valentino |
 | Capricho, Althea Mae | Cueto, Jon Peter |
 | Garcia, Mariella | Hidalgo, Keandre Sam |
 | Gonzaga, Monica Fritz | Julia, Vince Ray |
-| Jeremillos, Prince Godfrey | Lim, Maria Isabel |
-| Loberiza, Isah Franzea | Maruyama, Miyuki |
+| [Jeremillos, Prince Godfrey](https://pg1407.github.io/) | Lim, Maria Isabel |
+| Loberiza, Isah Franzea | [Maruyama, Miyuki](https://mimimimiyuki.github.io/mimimimiyuki/) |
 | Magayanes, Marlo Joseph | Nielbock, Ian Daryl Klaus |
 | Millares, Ryan Joseph | Noble, Lilyan Rechiele |
 | Miyahira, Ainee Flynn | Pepino, Nigel Benedict |
-| Necesario, Sophia Marie | Ramores, Sebastian |
+| [Necesario, Sophia Marie](https://18141589a.github.io/) | Ramores, Sebastian |
 | Perez, Jhenard Amor | Soliman, Olen Ulysses |
-| Pramis, Malak Gottfried | Tamaray, Jyrelle Joy |
-| Quintos, Lyonn Ezekiel | Villanueva, Glorianne |
+| Pramis, Malak Gottfried | [Tamaray, Jyrelle Joy](https://hatdogjo.github.io/hatdogjo1.github.io/) |
+| Quintos, Lyonn Ezekiel | [Villanueva, Glorianne](https://glvillanueva.github.io/) |
 | Sumayao, Brent Justin |  |
 | Viray, Jhan Jadiel |  |
 
