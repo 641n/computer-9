@@ -91,7 +91,7 @@
 | Barbosa, Gian Paolo | Austria, Angel Ann Marie |
 | Bautista, Julius Andrei | [Bumalay, Denise Angel](https://enhasparcel.github.io/) |
 | Coner, Joshua | Canlas, Myra Franzmine |
-| Driz, Nica Frances | De Leon, Charina Marielle Anne |
+| Driz, Nica Frances | [De Leon, Charina Marielle Anne](https://ebthako143.github.io/ebthako.github.io/) |
 | Duran, Amadahy Patrice | Garcia, Joseph Ronaldo |
 | Eledia, Jazzel Joy | [Gonzales, Ramon Xavier](https://save123456.github.io/) |
 | Galicia, Roman Julius | Lavilla, Apollo Raven |
