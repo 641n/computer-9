@@ -41,7 +41,7 @@
 | Caro, Freens Kairo | Daiz, Jacob Ezekiel | 
 | Cea, Hannah Chaeli | Delas Llagas, King Merlot | 
 | Custodio, Marae Alaine | King, Henry Louise | 
-| Del Castillo, Josh Christan Donn | Latosa, Amiel | 
+| Del Castillo, Josh Christan Donn | [Latosa, Amiel](https://0kie0k.github.io/) | 
 | Diño, Antonia Teresa Ignacia | Llorin, Primo Maximus | 
 | Edoria, Sandrene | Navarro, Hero Shaquille | 
 | Guzman, Irish Denise | Oronan, Denise Gabrielle | 
