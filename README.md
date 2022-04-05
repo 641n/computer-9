@@ -85,15 +85,15 @@
 | Group A | Group B | 
 |---------|---------|
 | Abaring, Jit Kenji | Ababan, Glenn |
-| Alegre, Mary Francine | Abion, Abby Rich |
-| Ayo, Reuben Ignacio | Abonita, Chelsy Rania |
+| [Alegre, Mary Francine](https://csaykaman.github.io/) | Abion, Abby Rich |
+| Ayo, Reuben Ignacio | [Abonita, Chelsy Rania](https://a-chelss.github.io/) |
 | Badiola, Ethan Carlos | Antonio, Mary Noelle Pauline |
 | Barbosa, Gian Paolo | Austria, Angel Ann Marie |
-| Bautista, Julius Andrei | Bumalay, Denise Angel |
+| Bautista, Julius Andrei | [Bumalay, Denise Angel](https://enhasparcel.github.io/) |
 | Coner, Joshua | Canlas, Myra Franzmine |
 | Driz, Nica Frances | De Leon, Charina Marielle Anne |
 | Duran, Amadahy Patrice | Garcia, Joseph Ronaldo |
-| Eledia, Jazzel Joy | Gonzales, Ramon Xavier |
+| Eledia, Jazzel Joy | [Gonzales, Ramon Xavier](https://save123456.github.io/) |
 | Galicia, Roman Julius | Lavilla, Apollo Raven |
 | Gaminde, Glenn Marq | Maranan, Mon Michael |
 | Israel, Abigail Carol | Martin, John Denver |
@@ -102,7 +102,7 @@
 | Pili, Lourdes Jean | Silerio, Francis Xavier |
 | Rebusquillo, Danielle Marie | Sotto, Leila |
 | Salgado, Aaron Jesse Emmanuel | Teves, Brad Craven |
-| San Pascual, Bryce Andrei | Viola, Paul Edward |
+| San Pascual, Bryce Andrei | [Viola, Paul Edward](https://paulviola1.github.io/) |
 | Villanueva, Sophia Francine | Zabaldica, Moira Angela |
 
 ----
