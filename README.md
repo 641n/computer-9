@@ -58,8 +58,27 @@
 
 | Group A | Group B | 
 |---------|---------|
-
-
+| Aguirre, Danielle Ann | Abrera, Yleona Marie |
+| Baider, Trish Maxine | Almazan, Shane Lendrix |
+| Ballesteros, Jairus Jan | Añonuevo, Raymond James |
+| Baquillas, Karl Michael | Bandin, Chesca Nicole |
+| Belleza, Von Jarren | Buenaventura, Ellyzah Rose |
+| Bio, Jienah Nicole | Camacho, Charlotte Marie |
+| Bonacua, Sean Louis | Cariaga, Christian Valentino |
+| Capricho, Althea Mae | Cueto, Jon Peter |
+| Garcia, Mariella | Hidalgo, Keandre Sam |
+| Gonzaga, Monica Fritz | Julia, Vince Ray |
+| Jeremillos, Prince Godfrey | Lim, Maria Isabel |
+| Loberiza, Isah Franzea | Maruyama, Miyuki |
+| Magayanes, Marlo Joseph | Nielbock, Ian Daryl Klaus |
+| Millares, Ryan Joseph | Noble, Lilyan Rechiele |
+| Miyahira, Ainee Flynn | Pepino, Nigel Benedict |
+| Necesario, Sophia Marie | Ramores, Sebastian |
+| Perez, Jhenard Amor | Soliman, Olen Ulysses |
+| Pramis, Malak Gottfried | Tamaray, Jyrelle Joy |
+| Quintos, Lyonn Ezekiel | Villanueva, Glorianne |
+| Sumayao, Brent Justin |  |
+| Viray, Jhan Jadiel |  |
 
 ### Ogilvie
 
