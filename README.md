@@ -4,6 +4,31 @@
 
 # CYCLE 2 Group
 
+### Arrowsmith
+
+| Group A | Group B | 
+|---------|---------|
+| Abonal, Sophia Lorraine | Agravante, Kent Michael
+| Abragan, Anton Lorenzo | Cuevas, Marimelle Ashley
+| Agapay, Ric Benedict | Dulce, Julio Leigh Pio
+| Arines, Sophia Kim | Enguero, Al Joaquin
+| Azuela, ALEXANDREI | Gangcuangco, Jecris Lorenzo
+| Azur, Elisha | Garcia, Edward Jay
+| Baldonasa, Renz Gabriel | Latumbo, Juanna Antonia
+| Bolalin, Kyle Rayne | Lu, Zap Airam
+| Demesa, John Oriele | Magnaye, Khalil Nishtar
+| Dulay, Venice Georgina | Malanyaon, Samantha Sky
+| Encila, Nicole | Mariano, Helaena Davidica
+| Estavillo, Nate Bastian | Rey, Mary Johnlyn
+| Marco, Mary Immaculate Concepcion | San Lorenzo, Karl Aleci
+| Masangkay, Jillianne Marie | Sol, Emerald
+| Navarro, Vinz Aaron | Sto. Domingo, Ivan
+| Rey, Arielle Jemilene | Tacorda, Chloe Anne
+| Rivera, Hannah Kelly | Teope, Gian Ma. Sophia
+| Sandia, Zach Jullian | Tordilla, Jhelei Ann
+| Sarines, Carl Wayne | Valencia, Josh Exequiel
+| Segarra, Carmelo Gene | |
+
 ### Ogilvie
 
 | Group A | Group B | 
