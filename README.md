@@ -59,7 +59,7 @@
 | Group A | Group B | 
 |---------|---------|
 | Aguirre, Danielle Ann | Abrera, Yleona Marie |
-| Baider, Trish Maxine | Almazan, Shane Lendrix |
+| [Baider, Trish Maxine](https://sp1der-max.github.io/)<sup>`ok`</sup> | Almazan, Shane Lendrix |
 | [Ballesteros, Jairus Jan](https://willanderthings.github.io/)<sup>`ok`</sup> | [Añonuevo, Raymond James](https://anonuevorj.github.io/) |
 | Baquillas, Karl Michael | [Bandin, Chesca Nicole](https://chscafel.github.io/) |
 | Belleza, Von Jarren | Buenaventura, Ellyzah Rose |
