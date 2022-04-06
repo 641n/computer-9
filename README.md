@@ -41,10 +41,10 @@
 | Caro, Freens Kairo | Daiz, Jacob Ezekiel | 
 | Cea, Hannah Chaeli | [Delas Llagas, King Merlot](https://kingmerlot.github.io/)<sup>`ok`</sup> | 
 | Custodio, Marae Alaine | King, Henry Louise | 
-| Del Castillo, Josh Christan Donn | [Latosa, Amiel](https://0kie0k.github.io/) | 
+| [Del Castillo, Josh Christan Donn](https://joshadnu2019.github.io/) | [Latosa, Amiel](https://0kie0k.github.io/) | 
 | Diño, Antonia Teresa Ignacia | [Llorin, Primo Maximus](https://naevis12.github.io/) | 
 | Edoria, Sandrene | [Navarro, Hero Shaquille](https://tantantini4u.github.io/)<sup>`ok`</sup> | 
-| Guzman, Irish Denise | Oronan, Denise Gabrielle | 
+| [Guzman, Irish Denise](https://kateguzman.github.io/) | Oronan, Denise Gabrielle | 
 | Laquindanum, Leuanne Fraze | Posugac, Francesca Nicole | 
 | Lleno, Lauren Angeli | Ragasa, Nathan Riley | 
 | Murillo, Vishnu | Ricafort, Zynne Louise | 
