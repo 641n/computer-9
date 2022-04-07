@@ -100,7 +100,7 @@
 | Lumbao, Monic Sophitia | Naldoza, Chris Dwayne |
 | Masuhay, Marc Daverick | Reazon, Joaquin Benedict |
 | Pili, Lourdes Jean | Silerio, Francis Xavier |
-| Rebusquillo, Danielle Marie | Sotto, Leila |
+| [Rebusquillo, Danielle Marie](https://daniemarie.github.io/)<sup>`ok`</sup> | Sotto, Leila |
 | Salgado, Aaron Jesse Emmanuel | Teves, Brad Craven |
 | San Pascual, Bryce Andrei | [Viola, Paul Edward](https://paulviola1.github.io/) |
 | Villanueva, Sophia Francine | Zabaldica, Moira Angela |
