@@ -72,7 +72,7 @@
 | Loberiza, Isah Franzea | [Maruyama, Miyuki](https://mimimimiyuki.github.io/mimimimiyuki/)<sup>`ok`</sup> |
 | Magayanes, Marlo Joseph | Nielbock, Ian Daryl Klaus |
 | Millares, Ryan Joseph | Noble, Lilyan Rechiele |
-| Miyahira, Ainee Flynn | Pepino, Nigel Benedict |
+| Miyahira, Ainee Flynn | [Pepino, Nigel Benedict](https://nigel418.github.io/)<sup>`ok`</sup> |
 | [Necesario, Sophia Marie](https://18141589a.github.io/) | Ramores, Sebastian |
 | Perez, Jhenard Amor | Soliman, Olen Ulysses |
 | Pramis, Malak Gottfried | [Tamaray, Jyrelle Joy](https://hatdogjo.github.io/hatdogjo1.github.io/) |
