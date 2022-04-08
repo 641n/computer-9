@@ -12,7 +12,7 @@
 | Abragan, Anton Lorenzo | Cuevas, Marimelle Ashley | 
 | Agapay, Ric Benedict | Dulce, Julio Leigh Pio | 
 | Arines, Sophia Kim | Enguero, Al Joaquin | 
-| Azuela, Alexandrei | [Gangcuangco, Jecris Lorenzo](https://jecr1s.github.io/Jecr1ss.github.io/) | 
+| Azuela, Alexandrei | [Gangcuangco, Jecris Lorenzo](https://jecr1s.github.io/)<sup>`ok`</sup> | 
 | Azur, Elisha | Garcia, Edward Jay | 
 | Baldonasa, Renz Gabriel | [Latumbo, Juanna Antonia](https://1nnaal.github.io/) | 
 | [Bolalin, Kyle Rayne](https://necrozrayne.github.io/)<sup>`ok`</sup> | Lu, Zap Airam | 
