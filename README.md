@@ -37,8 +37,8 @@
 | Arquiza, Princess Leonor | Amaro, Rollie | 
 | Azuela, Andrei | Bobos, John David | 
 | Barillo, Jaspher | Bolivar, Paula Helena | 
-| Capistrano, Jacob | Borja, Reenata Jeanette | 
-| Caro, Freens Kairo | Daiz, Jacob Ezekiel | 
+| [Capistrano, Jacob](https://jacobcaps.github.io/JacobCcaps/)<sup>`ok`</sup> | Borja, Reenata Jeanette | 
+| [Caro, Freens Kairo](https://freenscaro.github.io/FreensCaro-github.io/)<sup>`edit`</sup> | Daiz, Jacob Ezekiel | 
 | Cea, Hannah Chaeli | [Delas Llagas, King Merlot](https://kingmerlot.github.io/)<sup>`ok`</sup> | 
 | Custodio, Marae Alaine | King, Henry Louise | 
 | [Del Castillo, Josh Christan Donn](https://joshadnu2019.github.io/) | [Latosa, Amiel](https://0kie0k.github.io/) | 
