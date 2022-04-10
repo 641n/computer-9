@@ -67,7 +67,7 @@
 | Bonacua, Sean Louis | Cariaga, Christian Valentino |
 | Capricho, Althea Mae | Cueto, Jon Peter |
 | Garcia, Mariella | Hidalgo, Keandre Sam |
-| Gonzaga, Monica Fritz | Julia, Vince Ray |
+| [Gonzaga, Monica Fritz](https://m0nica99.github.io/)<sup>`ok`</sup> | Julia, Vince Ray |
 | [Jeremillos, Prince Godfrey](https://pg1407.github.io/) | Lim, Maria Isabel |
 | Loberiza, Isah Franzea | [Maruyama, Miyuki](https://mimimimiyuki.github.io/mimimimiyuki/)<sup>`ok`</sup> |
 | Magayanes, Marlo Joseph | Nielbock, Ian Daryl Klaus |
