@@ -49,7 +49,7 @@
 | Lleno, Lauren Angeli | Ragasa, Nathan Riley | 
 | Murillo, Vishnu | Ricafort, Zynne Louise | 
 | Orense, Xavier Alexander | Rivera, Ethanael | 
-| Solares, Jaime Sebastian | [Rosero, Mercel Isabel](https://mercelisabelrosero.github.io/) | 
+| Solares, Jaime Sebastian | [Rosero, Mercel Isabel](https://mercelisabelrosero.github.io/)<sup>`ok`</sup> | 
 | Sotaso, Sofia Gabrielle | Solares, Francesca Chloe | 
 | Sotto, Niño Jose | Soreta, Glenn | 
 | Sto. Domingo, Hannah Denise | Tipones, Alyssandra Nicole | 
