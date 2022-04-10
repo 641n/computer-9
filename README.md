@@ -8,7 +8,7 @@
 
 | Group A | Group B | 
 |---------|---------|
-| [Abonal, Sophia Lorraine](https://piaabonal.github.io/PhiaAbonal.github.io/)<sup>`ok`</sup> | Agravante, Kent Michael | 
+| [Abonal, Sophia Lorraine](https://piaabonal.github.io/) | Agravante, Kent Michael | 
 | Abragan, Anton Lorenzo | Cuevas, Marimelle Ashley | 
 | Agapay, Ric Benedict | Dulce, Julio Leigh Pio | 
 | Arines, Sophia Kim | Enguero, Al Joaquin | 
