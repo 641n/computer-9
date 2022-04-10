@@ -87,7 +87,7 @@
 | Abaring, Jit Kenji | Ababan, Glenn |
 | [Alegre, Mary Francine](https://csaykaman.github.io/)<sup>`ok`</sup> | Abion, Abby Rich |
 | Ayo, Reuben Ignacio | [Abonita, Chelsy Rania](https://a-chelss.github.io/) |
-| [Badiola, Ethan Carlos](https://ecbadiola1050.github.io/) | [Antonio, Mary Noelle Pauline](https://iammpiaaa.github.io/) |
+| [Badiola, Ethan Carlos](https://ecbadiola1050.github.io/) | [Antonio, Mary Noelle Pauline](https://iammpiaaa.github.io/)<sup>`ok`</sup> |
 | [Barbosa, Gian Paolo](https://cleetus2.github.io/) | Austria, Angel Ann Marie |
 | Bautista, Julius Andrei | [Bumalay, Denise Angel](https://enhasparcel.github.io/)<sup>`ok`</sup> |
 | Coner, Joshua | Canlas, Myra Franzmine |
