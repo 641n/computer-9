@@ -222,4 +222,7 @@
 [`twitter`](https://www.twitter.com/sirgain)
 [`Gain's Nook`](http://sirgain.droppages.com/)
 
+<div id="sfc764wwamms8tcywjrxw89qs2p9stkdds3"></div>
+<script type="text/javascript" src="https://counter9.stat.ovh/private/counter.js?c=764wwamms8tcywjrxw89qs2p9stkdds3&down=async" async></script>
+<noscript><a href="https://www.freecounterstat.com" title="free hit counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=764wwamms8tcywjrxw89qs2p9stkdds3" border="0" title="free hit counter" alt="free hit counter"></a></noscript>
 
