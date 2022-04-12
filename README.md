@@ -92,11 +92,11 @@
 | Bautista, Julius Andrei | [Bumalay, Denise Angel](https://enhasparcel.github.io/)<sup>`ok`</sup> |
 | Coner, Joshua | Canlas, Myra Franzmine |
 | [Driz, Nica Frances](https://nncax.github.io/)<sup>`ok`</sup> | [De Leon, Charina Marielle Anne](https://ebthako143.github.io/ebthako.github.io/) |
-| Duran, Amadahy Patrice | Garcia, Joseph Ronaldo |
+| [Duran, Amadahy Patrice](https://amadahypatrice.github.io/amadahy.github.io/)<sup>`ok`</sup> | Garcia, Joseph Ronaldo |
 | Eledia, Jazzel Joy | [Gonzales, Ramon Xavier](https://save123456.github.io/) |
 | Galicia, Roman Julius | [Lavilla, Apollo Raven](https://apollolavilla.github.io/Apollo/)<sup>`ok`</sup> |
 | Gaminde, Glenn Marq | Maranan, Mon Michael |
-| Israel, Abigail Carol | Martin, John Denver |
+| Israel, Abigail Carol | [Martin, John Denver](https://j0hnd3nv3r.github.io/)<sup>`ok`</sup> |
 | Lumbao, Monic Sophitia | Naldoza, Chris Dwayne |
 | Masuhay, Marc Daverick | Reazon, Joaquin Benedict |
 | Pili, Lourdes Jean | Silerio, Francis Xavier |
