@@ -91,7 +91,7 @@
 | [Barbosa, Gian Paolo](https://cleetus2.github.io/) | Austria, Angel Ann Marie |
 | Bautista, Julius Andrei | [Bumalay, Denise Angel](https://enhasparcel.github.io/)<sup>`ok`</sup> |
 | Coner, Joshua | Canlas, Myra Franzmine |
-| [Driz, Nica Frances](https://nncax.github.io/)<sup>`ok`</sup> | [De Leon, Charina Marielle Anne](https://ebthako143.github.io/ebthako.github.io/) |
+| [Driz, Nica Frances](https://nncax.github.io/)<sup>`nice`</sup> | [De Leon, Charina Marielle Anne](https://ebthako143.github.io/ebthako.github.io/) |
 | [Duran, Amadahy Patrice](https://amadahypatrice.github.io/amadahy.github.io/)<sup>`ok`</sup> | Garcia, Joseph Ronaldo |
 | Eledia, Jazzel Joy | [Gonzales, Ramon Xavier](https://save123456.github.io/) |
 | Galicia, Roman Julius | [Lavilla, Apollo Raven](https://apollolavilla.github.io/Apollo/)<sup>`ok`</sup> |
