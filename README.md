@@ -75,7 +75,7 @@
 | Miyahira, Ainee Flynn | [Pepino, Nigel Benedict](https://nigel418.github.io/)<sup>`ok`</sup> |
 | [Necesario, Sophia Marie](https://18141589a.github.io/) | Ramores, Sebastian |
 | Perez, Jhenard Amor | Soliman, Olen Ulysses |
-| Pramis, Malak Gottfried | [Tamaray, Jyrelle Joy](https://hatdogjo.github.io/) |
+| Pramis, Malak Gottfried | [Tamaray, Jyrelle Joy](https://hatdogjo.github.io/)<sup>`ok`</sup> |
 | Quintos, Lyonn Ezekiel | [Villanueva, Glorianne](https://glvillanueva.github.io/)<sup>`ok`</sup> |
 | Sumayao, Brent Justin |  |
 | Viray, Jhan Jadiel |  |
