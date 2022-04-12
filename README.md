@@ -27,7 +27,7 @@
 | [Rivera, Hannah Kelly](https://h-rivera22.github.io/h-rivera22/)<sup>`ok`</sup> | Teope, Gian Ma. Sophia | 
 | Sandia, Zach Jullian | [Tordilla, Jhelei Ann](https://jjellyjellyj.github.io/) | 
 | Sarines, Carl Wayne | Valencia, Josh Exequiel | 
-| Segarra, Carmelo Gene | |
+| [Segarra, Carmelo Gene](https://melooooooooooooo.github.io/) | |
 
 ### Bobola
 
