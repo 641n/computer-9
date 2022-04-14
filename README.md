@@ -13,7 +13,7 @@
 | Agapay, Ric Benedict | Dulce, Julio Leigh Pio | 
 | Arines, Sophia Kim | Enguero, Al Joaquin | 
 | Azuela, Alexandrei | [Gangcuangco, Jecris Lorenzo](https://jecr1s.github.io/)<sup>`ok`</sup> | 
-| Azur, Elisha | Garcia, Edward Jay | 
+| [Azur, Elisha](https://elishaazur.github.io/Eazur.github.io/) | Garcia, Edward Jay | 
 | Baldonasa, Renz Gabriel | [Latumbo, Juanna Antonia](https://1nnaal.github.io/)<sup>`edit`</sup> | 
 | [Bolalin, Kyle Rayne](https://necrozrayne.github.io/)<sup>`ok`</sup> | Lu, Zap Airam | 
 | Demesa, John Oriele | [Magnaye, Khalil Nishtar](https://katharsizs.github.io/) | 
@@ -65,7 +65,7 @@
 | Belleza, Von Jarren | Buenaventura, Ellyzah Rose |
 | Bio, Jienah Nicole | Camacho, Charlotte Marie |
 | Bonacua, Sean Louis | Cariaga, Christian Valentino |
-| [Capricho, Althea Mae](https://althea286.github.io/)<sup>`nice`</sup> | Cueto, Jon Peter |
+| [Capricho, Althea Mae](https://althea286.github.io/)<sup>`html5`</sup> | Cueto, Jon Peter |
 | Garcia, Mariella | Hidalgo, Keandre Sam |
 | [Gonzaga, Monica Fritz](https://m0nica99.github.io/)<sup>`ok`</sup> | Julia, Vince Ray |
 | [Jeremillos, Prince Godfrey](https://pg1407.github.io/) | Lim, Maria Isabel |
@@ -91,7 +91,7 @@
 | [Barbosa, Gian Paolo](https://cleetus2.github.io/) | Austria, Angel Ann Marie |
 | Bautista, Julius Andrei | [Bumalay, Denise Angel](https://enhasparcel.github.io/)<sup>`ok`</sup> |
 | Coner, Joshua | Canlas, Myra Franzmine |
-| [Driz, Nica Frances](https://nncax.github.io/)<sup>`nice`</sup> | [De Leon, Charina Marielle Anne](https://ebthako143.github.io/ebthako.github.io/) |
+| [Driz, Nica Frances](https://nncax.github.io/)<sup>`html5`</sup> | [De Leon, Charina Marielle Anne](https://ebthako143.github.io/ebthako.github.io/) |
 | [Duran, Amadahy Patrice](https://amadahypatrice.github.io/amadahy.github.io/)<sup>`ok`</sup> | Garcia, Joseph Ronaldo |
 | Eledia, Jazzel Joy | [Gonzales, Ramon Xavier](https://save123456.github.io/) |
 | Galicia, Roman Julius | [Lavilla, Apollo Raven](https://apollolavilla.github.io/Apollo/)<sup>`ok`</sup> |
