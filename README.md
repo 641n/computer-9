@@ -73,7 +73,7 @@
 | Magayanes, Marlo Joseph | Nielbock, Ian Daryl Klaus |
 | Millares, Ryan Joseph | Noble, Lilyan Rechiele |
 | Miyahira, Ainee Flynn | [Pepino, Nigel Benedict](https://nigel418.github.io/)<sup>`ok`</sup> |
-| [Necesario, Sophia Marie](https://18141589a.github.io/) | Ramores, Sebastian |
+| [Necesario, Sophia Marie](https://18141589a.github.io/)<sup>`ok`</sup> | Ramores, Sebastian |
 | Perez, Jhenard Amor | Soliman, Olen Ulysses |
 | Pramis, Malak Gottfried | [Tamaray, Jyrelle Joy](https://hatdogjo.github.io/)<sup>`ok`</sup> |
 | Quintos, Lyonn Ezekiel | [Villanueva, Glorianne](https://glvillanueva.github.io/)<sup>`ok`</sup> |
