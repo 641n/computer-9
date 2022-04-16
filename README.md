@@ -150,7 +150,7 @@
 | [Gonzaga, Franc Iverdre](https://iverdre.github.io/)<sup>`html5`</sup> | [Geronimo, Brent Isaac](https://brentisaacgeronimo.github.io/br3nt/)<sup>`ok`</sup> |
 | [Hernandez, Luis Iñigo](https://inigo101.github.io/inigo101/)<sup>`ok`</sup> | [Gloriani, Kyle Emanuelle](https://ky73d147.github.io/Recruitment-Hub/)<sup>`ok`</sup> |
 | [Ibarreta, Jenieva](https://i43yuna.github.io/)<sup>`ok`</sup> | [Hinagpis, Mark Vincent](https://mrk-hinagpis.github.io/MRK-HINAGPIS/) |
-| [Manalang, Kryselle Anne](https://kaileebelz.github.io/kwonk4i.github.io/)<sup>`ok`</sup> | [Joson, Rae Frances](https://raejoson.github.io/)<sup>`ok`</sup> |
+| [Manalang, Kryselle Anne](https://kaileebelz.github.io/kwonk4i.github.io/)<sup>`ok`</sup> | [Joson, Rae Frances](https://raejoson.github.io/)<sup>`html5`</sup> |
 | [Negro, Kenshin Reema](https://ripknshn.github.io/)<sup>`ok`</sup> | [Lanzuela, Neil Gabriel](https://github.com/g4br13lb/hello-world)<sup>`error`</sup> |
 | Oira, Ken Aurther Milek | [Mandanas, Miguel Alfred](https://miguel-mandanas.github.io/miggytozaki.github.io/)<sup>`ok`</sup> |
 | [Oloya, Amber Colleen](https://am-collee.github.io/)<sup>`ok`</sup> | [Moreno, Clint Russel](https://clintmoreno.github.io/Egg/)<sup>`ok`</sup> |
@@ -159,7 +159,7 @@
 | [Sabillena, Vincent Gerard](https://v1nce72.github.io/)<sup>`ok`</sup> | [Nidea, Samuel Ivan](https://samunidea.github.io/)<sup>`ok`</sup> |
 | [Santiago, Jabez Phire](https://amcsantiago.github.io/)<sup>`ok`</sup> | [Ornido, Robert Sebastian](http://bastyornido.github.io/)<sup>`ok`</sup> |
 | [Serranzana, Arianna Kayla](https://akreideprinz.github.io/anyaslungs/)<sup>`ok`</sup> | [Panganiban, Periel Matthew](https://matthiaspangiban.github.io/MAWInc/#)<sup>`html5`</sup> |
-| [Siangchin, Samantha](https://shamshangchuan.github.io/NieR-Automata/#)<sup>`html5`</sup> | [Perez, John Raymond Carlo](https://ijiray.github.io/)<sup>`ok`</sup> |
+| [Siangchin, Samantha](https://shamshangchuan.github.io/NieR-Automata/#)<sup>`html5`</sup> | [Perez, John Raymond Carlo](https://ijiray.github.io/)<sup>`html5`</sup> |
 | [Tatel, Armand Sergelio](https://armandtatel.github.io/)<sup>`ok`</sup> | [Santiago, Althea Mae](https://amcsantiago.github.io/)<sup>`ok`</sup> |
 | [Umali, Adriane](https://4idr74n3.github.io/)<sup>`ok`</sup> | [Simando, Dorothy Ada](https://da-arcsim.github.io/)<sup>`ok`</sup> |
 |  | [Villarin, Samantha Lurlin](http://samantha-villarin.github.io/)<sup>`ok`</sup> |
