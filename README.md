@@ -9,7 +9,7 @@
 | Group A | Group B | 
 |---------|---------|
 | [Abonal, Sophia Lorraine](https://piaabonal.github.io/) | Agravante, Kent Michael | 
-| Abragan, Anton Lorenzo | Cuevas, Marimelle Ashley | 
+| [Abragan, Anton Lorenzo](https://cyberneticgamingz.github.io/Cyberneticgamingz/)<sup>`ok`</sup> | Cuevas, Marimelle Ashley | 
 | Agapay, Ric Benedict | Dulce, Julio Leigh Pio | 
 | Arines, Sophia Kim | Enguero, Al Joaquin | 
 | Azuela, Alexandrei | [Gangcuangco, Jecris Lorenzo](https://jecr1s.github.io/)<sup>`ok`</sup> | 
