@@ -60,8 +60,8 @@
 |---------|---------|
 | Aguirre, Danielle Ann | Abrera, Yleona Marie |
 | [Baider, Trish Maxine](https://sp1der-max.github.io/)<sup>`ok`</sup> | Almazan, Shane Lendrix |
-| [Ballesteros, Jairus Jan](https://willanderthings.github.io/)<sup>`ok`</sup> | [Añonuevo, Raymond James](https://anonuevorj.github.io/) |
-| Baquillas, Karl Michael | [Bandin, Chesca Nicole](https://chscafel.github.io/) |
+| [Ballesteros, Jairus Jan](https://willanderthings.github.io/)<sup>`ok`</sup> | [Añonuevo, Raymond James](https://anonuevorj.github.io/)<sup>`ok`</sup> |
+| Baquillas, Karl Michael | [Bandin, Chesca Nicole](https://chscafel.github.io/)<sup>`html5`</sup> |
 | Belleza, Von Jarren | Buenaventura, Ellyzah Rose |
 | Bio, Jienah Nicole | Camacho, Charlotte Marie |
 | Bonacua, Sean Louis | Cariaga, Christian Valentino |
