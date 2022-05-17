@@ -88,22 +88,22 @@
 | [Alegre, Mary Francine](https://csaykaman.github.io/)<sup>`ok`</sup> | Abion, Abby Rich |
 | Ayo, Reuben Ignacio | [Abonita, Chelsy Rania](https://a-chelss.github.io/) |
 | [Badiola, Ethan Carlos](https://ecbadiola1050.github.io/) | [Antonio, Mary Noelle Pauline](https://iammpiaaa.github.io/)<sup>`ok`</sup> |
-| [Barbosa, Gian Paolo](https://cleetus2.github.io/) | [Austria, Angel Ann Marie](https://nglstr.github.io/Genshin-Impact-fan-page/)<sup>`html`</sup> |
-| Bautista, Julius Andrei | [Bumalay, Denise Angel](https://enhasparcel.github.io/)<sup>`ok`</sup> |
+| [Barbosa, Gian Paolo](https://cleetus2.github.io/)<sup>`ok`</sup> | [Austria, Angel Ann Marie](https://nglstr.github.io/Genshin-Impact-fan-page/)<sup>`html`</sup> |
+| [Bautista, Julius Andrei](https://jolsbautista.github.io/JuliusBlog.github.io/)<sup>`ok`</sup> | [Bumalay, Denise Angel](https://enhasparcel.github.io/)<sup>`ok`</sup> |
 | [Coner, Joshua](https://wakiconer.github.io/) | Canlas, Myra Franzmine |
 | [Driz, Nica Frances](https://nncax.github.io/)<sup>`html5`</sup> | [De Leon, Charina Marielle Anne](https://ebthako143.github.io/ebthako.github.io/) |
 | [Duran, Amadahy Patrice](https://amadahypatrice.github.io/amadahy.github.io/)<sup>`ok`</sup> | Garcia, Joseph Ronaldo |
-| Eledia, Jazzel Joy | [Gonzales, Ramon Xavier](https://save123456.github.io/) |
-| Galicia, Roman Julius | [Lavilla, Apollo Raven](https://apollolavilla.github.io/Apollo/)<sup>`ok`</sup> |
-| Gaminde, Glenn Marq | Maranan, Mon Michael |
-| Israel, Abigail Carol | [Martin, John Denver](https://j0hnd3nv3r.github.io/)<sup>`ok`</sup> |
-| Lumbao, Monic Sophitia | Naldoza, Chris Dwayne |
+| [Eledia, Jazzel Joy](https://jazzel15.github.io/) | [Gonzales, Ramon Xavier](https://save123456.github.io/) |
+| [Galicia, Roman Julius](https://rjuliusg.github.io/rjulius.github.io/)<sup>`ok`</sup> | [Lavilla, Apollo Raven](https://apollolavilla.github.io/Apollo/)<sup>`ok`</sup> |
+| Gaminde, Glenn Marq | [Maranan, Mon Michael](https://github.com/monmichaelmaranan/Mon/blob/2a7fca5475da4767490150c90b885238b06c609e/README.md)<sup>`error`</sup> |
+| Israel, Abigail Carol | [Martin, John Denver](https://j0hnd3nv3r.github.io/) |
+| [Lumbao, Monic Sophitia](https://monicsophitia.github.io/)<sup>`ok`</sup> | Naldoza, Chris Dwayne |
 | Masuhay, Marc Daverick | Reazon, Joaquin Benedict |
 | Pili, Lourdes Jean | Silerio, Francis Xavier |
-| [Rebusquillo, Danielle Marie](https://daniemarie.github.io/)<sup>`ok`</sup> | Sotto, Leila |
+| [Rebusquillo, Danielle Marie](https://daniemarie.github.io/)<sup>`ok`</sup> | [Sotto, Leila](https://github.com/leylaa23)<sup>`error`</sup> |
 | Salgado, Aaron Jesse Emmanuel | Teves, Brad Craven |
-| San Pascual, Bryce Andrei | [Viola, Paul Edward](https://paulviola1.github.io/) |
-| Villanueva, Sophia Francine | Zabaldica, Moira Angela |
+| [San Pascual, Bryce Andrei](https://b-ricesp.github.io/BryceSP/) | [Viola, Paul Edward](https://paulviola1.github.io/) |
+| [Villanueva, Sophia Francine](https://soapy07.github.io/)<sup>`ok`</sup> | Zabaldica, Moira Angela |
 
 ----
 
