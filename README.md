@@ -58,26 +58,26 @@
 
 | Group A | Group B | 
 |---------|---------|
-| Aguirre, Danielle Ann | Abrera, Yleona Marie |
+| [Aguirre, Danielle Ann](https://aguirre-daniela.github.io/elladaniela.github.io/)<sup>`ok`</sup> | Abrera, Yleona Marie |
 | [Baider, Trish Maxine](https://sp1der-max.github.io/)<sup>`ok`</sup> | Almazan, Shane Lendrix |
 | [Ballesteros, Jairus Jan](https://willanderthings.github.io/)<sup>`ok`</sup> | [Añonuevo, Raymond James](https://anonuevorj.github.io/)<sup>`ok`</sup> |
 | Baquillas, Karl Michael | [Bandin, Chesca Nicole](https://chscafel.github.io/)<sup>`html5`</sup> |
-| Belleza, Von Jarren | Buenaventura, Ellyzah Rose |
-| Bio, Jienah Nicole | Camacho, Charlotte Marie |
-| Bonacua, Sean Louis | Cariaga, Christian Valentino |
+| Belleza, Von Jarren | [Buenaventura, Ellyzah Rose](https://buenaventura-elly.github.io/)<sup>`ok`</sup> |
+| Bio, Jienah Nicole | [Camacho, Charlotte Marie](https://charlotte-zin.github.io/artworks.com/)<sup>`ok`</sup> |
+| Bonacua, Sean Louis | [Cariaga, Christian Valentino](https://github.com/Dr4g0CV)<sup>`error`</sup> |
 | [Capricho, Althea Mae](https://althea286.github.io/)<sup>`html5`</sup> | Cueto, Jon Peter |
-| Garcia, Mariella | Hidalgo, Keandre Sam |
-| [Gonzaga, Monica Fritz](https://m0nica99.github.io/)<sup>`ok`</sup> | Julia, Vince Ray |
+| [Garcia, Mariella](https://github.com/garciamariella)<sup>`error</sup> | [Hidalgo, Keandre Sam](https://github.com/Kean69pogs/Kean69pogs)<sup>`error`</sup> |
+| [Gonzaga, Monica Fritz](https://m0nica99.github.io/)<sup>`ok`</sup> | [Julia, Vince Ray](https://vincerayjulia.github.io/) |
 | [Jeremillos, Prince Godfrey](https://pg1407.github.io/) | Lim, Maria Isabel |
-| Loberiza, Isah Franzea | [Maruyama, Miyuki](https://mimimimiyuki.github.io/mimimimiyuki/)<sup>`ok`</sup> |
-| Magayanes, Marlo Joseph | Nielbock, Ian Daryl Klaus |
-| Millares, Ryan Joseph | Noble, Lilyan Rechiele |
+| [Loberiza, Isah Franzea](https://isahz.github.io/Isahz/)<sup>`ok`</sup> | [Maruyama, Miyuki](https://mimimimiyuki.github.io/mimimimiyuki/)<sup>`ok`</sup> |
+| [Magayanes, Marlo Joseph](https://magayanesemjay.github.io/) | Nielbock, Ian Daryl Klaus |
+| Millares, Ryan Joseph | [Noble, Lilyan Rechiele](https://github.com/3rdyeleana/3dyeleana.github.io)<sup>`error`</sup> |
 | Miyahira, Ainee Flynn | [Pepino, Nigel Benedict](https://nigel418.github.io/)<sup>`ok`</sup> |
 | [Necesario, Sophia Marie](https://18141589a.github.io/)<sup>`ok`</sup> | Ramores, Sebastian |
-| Perez, Jhenard Amor | Soliman, Olen Ulysses |
+| [Perez, Jhenard Amor](https://ifearjhen.github.io/)<sup>`ok`</sup> | Soliman, Olen Ulysses |
 | Pramis, Malak Gottfried | [Tamaray, Jyrelle Joy](https://hatdogjo.github.io/)<sup>`ok`</sup> |
-| Quintos, Lyonn Ezekiel | [Villanueva, Glorianne](https://glvillanueva.github.io/)<sup>`ok`</sup> |
-| Sumayao, Brent Justin |  |
+| [Quintos, Lyonn Ezekiel](https://zzzzkel.github.io/) | [Villanueva, Glorianne](https://glvillanueva.github.io/)<sup>`ok`</sup> |
+| [Sumayao, Brent Justin](https://github.com/Brentjustin)<sup>`error`</sup> |  |
 | Viray, Jhan Jadiel |  |
 
 ### Ogilvie
