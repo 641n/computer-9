@@ -10,23 +10,23 @@
 |---------|---------|
 | [Abonal, Sophia Lorraine](https://piaabonal.github.io/) | [Agravante, Kent Michael](https://kenth11037.github.io/)<sup>`ok`</sup> | 
 | [Abragan, Anton Lorenzo](https://cyberneticgamingz.github.io/Cyberneticgamingz/)<sup>`ok`</sup> | Cuevas, Marimelle Ashley | 
-| Agapay, Ric Benedict | Dulce, Julio Leigh Pio | 
-| Arines, Sophia Kim | Enguero, Al Joaquin | 
+| [Agapay, Ric Benedict](https://severum07.github.io/)<sup>`ok`</sup> | Dulce, Julio Leigh Pio | 
+| [Arines, Sophia Kim](https://kishijin.github.io/)<sup>`edit`</sup> | Enguero, Al Joaquin | 
 | Azuela, Alexandrei | [Gangcuangco, Jecris Lorenzo](https://jecr1s.github.io/)<sup>`ok`</sup> | 
 | [Azur, Elisha](https://elishaazur.github.io/Eazur.github.io/) | Garcia, Edward Jay | 
-| Baldonasa, Renz Gabriel | [Latumbo, Juanna Antonia](https://1nnaal.github.io/)<sup>`edit`</sup> | 
+| [Baldonasa, Renz Gabriel](https://trasmux.github.io/)<sup>`ok`</sup> | [Latumbo, Juanna Antonia](https://1nnaal.github.io/)<sup>`ok`</sup> | 
 | [Bolalin, Kyle Rayne](https://necrozrayne.github.io/)<sup>`ok`</sup> | Lu, Zap Airam | 
 | Demesa, John Oriele | [Magnaye, Khalil Nishtar](https://katharsizs.github.io/) | 
-| Dulay, Venice Georgina | Malanyaon, Samantha Sky | 
-| [Encila, Nicole](https://nicxiedust.github.io/nicxiedust.github.io-/)<sup>`ok`</sup> | [Mariano, Helaena Davidica](https://laenamariano.github.io/EnaMariano.github.io/)<sup>`edit`</sup> | 
+| [Dulay, Venice Georgina](http://venn-19.github.io/)<sup>`error`</sup> | Malanyaon, Samantha Sky | 
+| [Encila, Nicole](https://nicxiedust.github.io/nicxiedust.github.io-/)<sup>`ok`</sup> | [Mariano, Helaena Davidica](https://laenamariano.github.io/EnaMariano.github.io/)<sup>`ok`</sup> | 
 | Estavillo, Nate Bastian | Rey, Mary Johnlyn | 
-| Marco, Mary Immaculate Concepcion | San Lorenzo, Karl Aleci | 
-| Masangkay, Jillianne Marie | [Sol, Emerald](https://emeraldzsj.github.io/) | 
-| Navarro, Vinz Aaron | [Sto. Domingo, Ivan](https://ivanrstodomingo.github.io/)<sup>`ok`</sup> | 
-| [Rey, Arielle Jemilene](https://arindelle13.github.io/)<sup>`ok`</sup> | Tacorda, Chloe Anne | 
+| Marco, Mary Immaculate Concepcion<sup>`error`</sup> | San Lorenzo, Karl Aleci | 
+| Masangkay, Jillianne Marie | [Sol, Emerald](https://emeraldzsj.github.io/)<sup>`ok`</sup> | 
+| [Navarro, Vinz Aaron](https://hahagagsmissu.github.io/) | [Sto. Domingo, Ivan](https://ivanrstodomingo.github.io/)<sup>`ok`</sup> | 
+| [Rey, Arielle Jemilene](https://arindelle13.github.io/)<sup>`ok`</sup> | [Tacorda, Chloe Anne](https://fvchloe.github.io/fvchloe/)<sup>`ok`</sup> | 
 | [Rivera, Hannah Kelly](https://h-rivera22.github.io/h-rivera22/)<sup>`ok`</sup> | Teope, Gian Ma. Sophia | 
-| Sandia, Zach Jullian | [Tordilla, Jhelei Ann](https://jjellyjellyj.github.io/) | 
-| Sarines, Carl Wayne | Valencia, Josh Exequiel | 
+| [Sandia, Zach Jullian](https://zucc25.github.io/)<sup>`ok`</sup> | [Tordilla, Jhelei Ann](https://jjellyjellyj.github.io/)<sup>`ok`</sup> | 
+| Sarines, Carl Wayne | [Valencia, Josh Exequiel](https://joshvalencia06.github.io/) | 
 | [Segarra, Carmelo Gene](https://melooooooooooooo.github.io/) | |
 
 ### Bobola
