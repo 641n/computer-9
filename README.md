@@ -33,26 +33,26 @@
 
 | Group A | Group B | 
 |---------|---------|
-| Agravante, Dhan Juzly | Abawag, Angel Valerie | 
+| Agravante, Dhan Juzly | [Abawag, Angel Valerie](https://github.com/123AngelValerie/AngelValerie.github.io/blob/ffc079719774c4c34a42e322e0afbfd4f11320e3/README.md)<sup>`error`</SUP> | 
 | [Arquiza, Princess Leonor](https://princessssarquiza.github.io/)<sup>`ok`</sup> | Amaro, Rollie | 
-| Azuela, Andrei | Bobos, John David | 
-| Barillo, Jaspher | Bolivar, Paula Helena | 
+| Azuela, Andrei | [Bobos, John David](http://ww16.10-j4d3-06.githu.io/Test?sub1=20220517-1255-27f6-8431-d19b20777b19)<sup>html5</sup> | 
+| [Barillo, Jaspher](https://lckyfloid.github.io/lckyfloid/)<sup>`ok`</sup> | [Bolivar, Paula Helena](https://elblvr05.github.io/elblvr05/)<sup>`ok`</sup> | 
 | [Capistrano, Jacob](https://jacobcaps.github.io/JacobCcaps/)<sup>`ok`</sup> | Borja, Reenata Jeanette | 
-| [Caro, Freens Kairo](https://freenscaro.github.io/FreensCaro-github.io/)<sup>`edit`</sup> | Daiz, Jacob Ezekiel | 
+| [Caro, Freens Kairo](https://freenscaro.github.io/FreensCaro-github.io/)<sup>`edit`</sup> | [Daiz, Jacob Ezekiel](https://cobiee.github.io/) | 
 | Cea, Hannah Chaeli | [Delas Llagas, King Merlot](https://kingmerlot.github.io/)<sup>`ok`</sup> | 
 | Custodio, Marae Alaine | King, Henry Louise | 
-| [Del Castillo, Josh Christan Donn](https://joshadnu2019.github.io/) | [Latosa, Amiel](https://0kie0k.github.io/) | 
-| Diño, Antonia Teresa Ignacia | [Llorin, Primo Maximus](https://naevis12.github.io/) | 
+| [Del Castillo, Josh Christan Donn](https://joshadnu2019.github.io/) | [Latosa, Amiel](https://0kie0k.github.io/)<sup>`ok`</sup> | 
+| [Diño, Antonia Teresa Ignacia](https://anya0125.github.io/)<sup>`ok`</sup> | [Llorin, Primo Maximus](https://naevis12.github.io/) | 
 | [Edoria, Sandrene](https://sqndyyy.github.io/) | [Navarro, Hero Shaquille](https://tantantini4u.github.io/)<sup>`ok`</sup> | 
-| [Guzman, Irish Denise](https://kateguzman.github.io/) | Oronan, Denise Gabrielle | 
-| Laquindanum, Leuanne Fraze | Posugac, Francesca Nicole | 
-| Lleno, Lauren Angeli | Ragasa, Nathan Riley | 
+| [Guzman, Irish Denise](https://kateguzman.github.io/) | [Oronan, Denise Gabrielle](https://dgoronan.github.io/) | 
+| [Laquindanum, Leuanne Fraze](https://leuanne.github.io/)<sup>`ok`</sup> | [Posugac, Francesca Nicole](https://francescanicolep.github.io/)<sup>`ok`</sup> | 
+| [Lleno, Lauren Angeli](https://github.com/lleno-angeli)<sup>`error`</sup> | Ragasa, Nathan Riley | 
 | Murillo, Vishnu | Ricafort, Zynne Louise | 
 | Orense, Xavier Alexander | Rivera, Ethanael | 
 | Solares, Jaime Sebastian | [Rosero, Mercel Isabel](https://mercelisabelrosero.github.io/)<sup>`ok`</sup> | 
 | Sotaso, Sofia Gabrielle | Solares, Francesca Chloe | 
-| Sotto, Niño Jose | Soreta, Glenn | 
-| Sto. Domingo, Hannah Denise | Tipones, Alyssandra Nicole | 
+| Sotto, Niño Jose | [Soreta, Glenn](https://kapogian.github.io/) | 
+| [Sto. Domingo, Hannah Denise](https://hansban.github.io/)<sup>`ok`</sup> | Tipones, Alyssandra Nicole | 
 
 ### Goupil
 
